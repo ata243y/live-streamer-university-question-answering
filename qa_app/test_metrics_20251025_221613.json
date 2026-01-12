@@ -1,0 +1,68 @@
+{
+  "total_tests": 110,
+  "total_passed": 103,
+  "overall_success_rate": 93.64,
+  "avg_response_time": 68.342,
+  "median_response_time": 69.827,
+  "max_response_time": 87.326,
+  "category_scores": {
+    "cap_yandal": {
+      "passed": 18,
+      "total": 20,
+      "success_rate": 90.0
+    },
+    "yatay_gecis": {
+      "passed": 14,
+      "total": 15,
+      "success_rate": 93.33
+    },
+    "lisansustu": {
+      "passed": 20,
+      "total": 20,
+      "success_rate": 100.0
+    },
+    "staj": {
+      "passed": 11,
+      "total": 12,
+      "success_rate": 91.67
+    },
+    "egitim": {
+      "passed": 12,
+      "total": 15,
+      "success_rate": 80.0
+    },
+    "fikri_mulkiyet": {
+      "passed": 10,
+      "total": 10,
+      "success_rate": 100.0
+    },
+    "kismi_zamanli": {
+      "passed": 8,
+      "total": 8,
+      "success_rate": 100.0
+    },
+    "out_of_scope": {
+      "passed": 10,
+      "total": 10,
+      "success_rate": 100.0
+    }
+  },
+  "difficulty_scores": {
+    "medium": {
+      "passed": 57,
+      "total": 60,
+      "success_rate": 95.0
+    },
+    "easy": {
+      "passed": 26,
+      "total": 28,
+      "success_rate": 92.86
+    },
+    "hard": {
+      "passed": 20,
+      "total": 22,
+      "success_rate": 90.91
+    }
+  },
+  "errors": 0
+}

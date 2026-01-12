@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# System
+.DS_Store
+.base_trace
+
+# IDE
+.vscode/
+.idea/
+
+# Docker (Excluded as per request to keep repo clean of build artifacts not strictly source)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Debug & Verification Scripts (Local dev tools)
+debug_chitchat.py
+debug_output.txt
+verify_chitchat.py
+verify_rag_context.py
+reproduce_retrieval.py
+inspect_data.py
+
+# Internal/Temp Documentation
+implementation-details.txt
+project-summary.txt
+test-evaluation-report.txt
+
+# Artifacts
+.gemini/
+
+# Generated Media
+*.mp3
+talkingmodel/response_*.mp3

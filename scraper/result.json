@@ -1,0 +1,1275 @@
+[
+    {
+        "announcement": {
+            "title": "Akademik Başarılara Özel Çağrı",
+            "content": {
+                "purpose": "Üniversitemiz akademik/idari personel ve öğrencilerimizin ulusal ve uluslararası platformlardaki başarılarını daha görünür kılmak, emeklerini taçlandırmak ve gelecek projeleri için ilham vermek amacıyla Ödül Çağrı Portalımızı yeniledi.",
+                "features": [
+                    "Güncel ödül çağrılarını sunma",
+                    "Başvuru süreçlerini net bir şekilde açıklama",
+                    "Uygunluk kriterlerini belirtme",
+                    "Ödül türlerini listeleme"
+                ],
+                "benefits": {
+                    "visibility": "Başarılarınızın üniversitemiz ve daha geniş kitleler tarafından fark edilmesini sağlayın.",
+                    "motivation": "Çalışmalarınızın takdir edilmesi, yeni projelere ve araştırmalara motivasyon kaynağı olsun.",
+                    "institutional_support": "Üniversitemiz, başvuru süreçlerinizde gerekli desteği sunarak yanınızda.",
+                    "data_contribution": "Ödül Başvuru Bildiri Formu ve Ödül Derece Bildiri Formu ile üniversitemizin kurumsal hafızasına katkıda bulunarak gelecekteki stratejilerimizin belirlenmesine yardımcı olun."
+                },
+                "call_to_action": "Geleceğinize yatırım yapmak ve başarılarınızı taçlandırmak için GTÜ Ödül Çağrı Portalını düzenli olarak ziyaret etmeyi unutmayın."
+            },
+            "last_updated": "19 Aralık 2025"
+        }
+    },
+    {
+        "university": {
+            "name": "Gebze Teknik Üniversitesi",
+            "location": "Gebze, Turkey",
+            "contact_email": "iletisim@gtu.edu.tr",
+            "website": "gtu.edu.tr",
+            "social_media": {
+                "facebook_followers": 9200,
+                "facebook_following": 1
+            },
+            "recent_posts": [
+                {
+                    "title": "Bariyerleri İletişimle Aşıyoruz: GTÜ’de 'Eller Konuşsun' Seferberliği",
+                    "timestamp": "4h ago",
+                    "engagement": {
+                        "likes": 6,
+                        "comments": 0
+                    }
+                }
+            ]
+        }
+    },
+    {},
+    {
+        "university": "Gebze Teknik Üniversitesi",
+        "management": {
+            "rector": {
+                "name": "Prof. Dr. Hacı Ali MANTAR"
+            },
+            "vice_rectors": [
+                {
+                    "name": "Prof. Dr. Elif Damla ARISAN"
+                },
+                {
+                    "name": "Prof. Dr. Hasari ÇELEBİ"
+                },
+                {
+                    "name": "Prof. Dr. Mahmut DURMUŞ"
+                }
+            ],
+            "general_secretary": {
+                "name": "Nadir YILDIRIM"
+            }
+        },
+        "administrative_units": [
+            "Bilgi İşlem Dairesi Başkanlığı",
+            "Genel Sekreterlik",
+            "Hukuk Müşavirliği",
+            "İdari ve Mali İşler Daire Başkanlığı",
+            "Kütüphane ve Dokümantasyon Dairesi Başkanlığı",
+            "Öğrenci İşleri Daire Başkanlığı",
+            "Personel Dairesi Başkanlığı",
+            "Sağlık Kültür ve Spor Dairesi Başkanlığı",
+            "Strateji Geliştirme Daire Başkanlığı",
+            "Yapı İşleri ve Teknik Daire Başkanlığı"
+        ],
+        "last_updated": "03 Haziran 2025"
+    },
+    {},
+    {
+        "university": "Gebze Teknik Üniversitesi",
+        "research_strategy": {
+            "description": "Gebze Teknik Üniversitesi, araştırma üniversitesi olarak yüksek ve etkili yayın sayısı, üretilen bilimsel çıktıların küresel ortalamaların üzerinde atıflar alıyor olması, patent ve sanayi uygulamaları ile gerçek problemlere çözüm arayan ve üretkenliği ile liderdir.",
+            "2024_achievements": {
+                "international_project_applications": "Proje başvurusu ve alınan proje sayıları %900 düzeyinde arttırılmıştır."
+            },
+            "priorities": {
+                "high_impact_publications": "Doktora tezlerinden üretilen yayınların etki oranı yüksektir.",
+                "national_international_collaboration": "Birçok araştırma projesi başarı ile devam ettirilmekte ve tamamlanmaktadır."
+            }
+        },
+        "administration": {
+            "research_responsible_deputy": {
+                "name": "Prof. Dr. Elif Damla ARISAN",
+                "focus_areas": [
+                    "Ulusal Stratejiler",
+                    "Toplumsal Katkı ve Etki",
+                    "Sürdürülebilirlik"
+                ]
+            },
+            "international_strategies": {
+                "name": "Prof. Dr. Hasari ÇELEBİ",
+                "focus_areas": [
+                    "Uluslararası Stratejiler",
+                    "Ticarileşme",
+                    "Üniversite Sanayi İş birliği"
+                ]
+            }
+        },
+        "policies": {
+            "research_university_qualification": "Araştırma Odaklı Üniversite Olma Niteliğinin Güçlendirilmesi önemlidir.",
+            "mission_vision_values": "Araştırma niteliği ve elde edilen araştırma sonuçlarının problemlerin çözümüne etkisi açısından değerlendirilmiştir."
+        },
+        "research_teams": {
+            "academic_outputs": "GTÜ araştırmacıları artan oranlarda Q1 düzeyinde akademik çıktıları üretmektedir.",
+            "funding": "Ulusal ve uluslararası fonlardan yararlanma düzeyi her zaman liderdir."
+        },
+        "committees": [
+            "Araştırma ve Geliştirme Komisyonu",
+            "Bilimsel Araştırma Projeleri Komisyonu",
+            "Doktora Makale İnceleme Komisyonu",
+            "Yayın Komisyonu",
+            "Fikri ve Sınai Mülkiyet Haklar Kurulu",
+            "Araştırma Koordinatörlüğü"
+        ],
+        "research_environment": {
+            "description": "Küresel araştırmalar için önemli bir araştırma ortamı sağlamaktadır.",
+            "opportunities": "Ulusal ve uluslararası birçok araştırmacıya araştırma ekosisteminde yer vermektedir."
+        },
+        "programs": {
+            "HR4SR": "The Human Resources Strategy for Researchers çalışmaları devam etmektedir.",
+            "guest_researchers": "Üniversitemiz alanında yetkin birçok araştırmacıyı misafir araştırmacı olarak yer vermektedir.",
+            "active_research_ecosystem": "Lider araştırmacılar programı veya diğer fonlar tarafından desteklenen programlar ile GTÜ’de aktif araştırma ekosisteminin bir parçası olmak isterseniz rektoryard@gtu.edu.tr adresine e-posta iletiniz."
+        },
+        "research_funding": {
+            "BAP": "Bilimsel Araştırma Projeleri",
+            "research_coordinator": "Araştırma koordinatörlüğü",
+            "TTO": "Teknoloji Transfer Ofisi"
+        },
+        "last_updated": "22 Nisan 2025"
+    },
+    {
+        "university": "Gebze Teknik Üniversitesi",
+        "announcement": {
+            "title": "Ödül ve Yarışma Bildirim Formları",
+            "content": [
+                "Ulusal veya uluslararası düzeyde kazanılan başarılar, üniversitelerin akademik itibarını artırmakta ve küresel ölçekte tanınırlığını pekiştirmektedir.",
+                "Bu tür başarılar, kurumun adını duyurarak yeni iş birlikleri, finansman olanakları ve araştırma fırsatlarına kapı aralamaktadır.",
+                "Akademik/idari personel ve öğrencilerin ödüllerle onurlandırılması, iç motivasyonlarını ve kariyer gelişimlerini desteklemektedir.",
+                "Ödüller, bireylerin yetkinliklerini ve katkılarını takdir ederken, aynı zamanda yeni araştırma ve projelere ilham kaynağı olmaktadır.",
+                "Öğrenciler için bu ödüller, akademik kariyerlerine adım atma konusunda cesaret verirken, öğretim üyeleri için geleceğin akademik liderlerini yetiştirme noktasında bir teşvik unsuru oluşturmaktadır.",
+                "Üniversite içerisinde böyle bir başarı kültürünün tesis edilmesi, tüm topluluğa ilham vererek araştırmaya, yeniliğe ve bilimsel mükemmeliyete olan bağlılığı artırmaktadır.",
+                "Ödüller, üniversitenin eğitim, araştırma ve topluma katkı misyonunu güçlendirmekte; tüm üniversite topluluğunun başarı ve gelişim odaklı bir kültürde büyümesine olanak tanımaktadır.",
+                "Personel ve öğrencilerin ödüllere layık görülmesi, üniversitenin sürdürülebilir gelişimi ve gelecekteki başarıları açısından büyük bir öneme sahiptir.",
+                "Koordinatörlüğümüz faaliyet alanlarından biri, üniversitemiz personeli ve öğrencilerinin ödül mekanizmalarından faydalanmasını desteklemektir.",
+                "Bu doğrultuda, hem başvurulan hem de kazanılan ödül/yarışmalar hakkında bilgi sahibi olmamız ve ayrıca Yükseköğretim Kurumu tarafından talep edilen bilgileri eksiksiz sunmamız büyük önem taşımaktadır."
+            ],
+            "forms": [
+                "Ödül/Yarışma Derece Bildirim Formu",
+                "Ödül/Yarışma Başvuru Bildirim Formu"
+            ],
+            "last_updated": "24 Temmuz 2025"
+        }
+    },
+    {
+        "university": "Gebze Teknik Üniversitesi",
+        "portal": "Ödül Yarışma Çağrı Portalı",
+        "description": "Koordinatörlüğümüz faaliyet alanlarından biri, üniversitemiz personeli ve öğrencilerinin ödül mekanizmalarından faydalanmasını desteklemektir.",
+        "information": "Bu kapsamda, ödül ve yarışma çağrıları hakkında detaylı bilgilendirme e-postaları gönderilmektedir.",
+        "contact_email": "arastirmakoordinatorlugu@gtu.edu.tr",
+        "last_updated": "24 Temmuz 2025"
+    },
+    {},
+    {
+        "instagram": {
+            "university": "Gebze Teknik Üniversitesi",
+            "topics": [
+                {
+                    "title": "Lise Ziyaretleri",
+                    "description": "Lise öğrencilerine yönelik etkinlikler ve laboratuvar deneyimleri."
+                },
+                {
+                    "title": "Bölüm Tanıtım",
+                    "description": "Farklı bölümlerin tanıtımı ve bilgilendirme etkinlikleri."
+                },
+                {
+                    "title": "Yeni Bölümler",
+                    "description": "Üniversitede açılan yeni bölümler hakkında bilgi."
+                },
+                {
+                    "title": "Gönüllümüz Ol",
+                    "description": "Gönüllü projelere katılım çağrısı."
+                },
+                {
+                    "title": "GTÜ Avantajları",
+                    "description": "Üniversitenin sunduğu avantajlar ve fırsatlar."
+                },
+                {
+                    "title": "Erasmus Lisans",
+                    "description": "Erasmus programı hakkında bilgi."
+                },
+                {
+                    "title": "Lisansüstü Başvuru",
+                    "description": "Lisansüstü programlara başvuru süreci."
+                },
+                {
+                    "title": "Kagem Sohbetleri",
+                    "description": "Kampüs hayatı ve sosyal etkinlikler üzerine sohbetler."
+                },
+                {
+                    "title": "Teknofest 2023",
+                    "description": "Teknoloji ve inovasyon festivali hakkında bilgiler."
+                },
+                {
+                    "title": "Tanıtım Günleri",
+                    "description": "Üniversitenin tanıtım günleri etkinlikleri."
+                },
+                {
+                    "title": "Engelsiz İletişim",
+                    "description": "İşaret dili eğitimi ve toplumsal katkı projeleri."
+                },
+                {
+                    "title": "Uluslararası İş Birlikleri",
+                    "description": "Azerbaycan Teknik Üniversitesi ile yapılan iş birliği görüşmeleri."
+                },
+                {
+                    "title": "Bilime Dokun",
+                    "description": "Lise öğrencilerine yönelik bilim etkinlikleri."
+                },
+                {
+                    "title": "GTÜ ve KOÜ İş Birliği",
+                    "description": "Kocaeli Üniversitesi ile yapılan stratejik değerlendirmeler."
+                }
+            ]
+        }
+    },
+    {
+        "announcements": [
+            {
+                "title": "Prof. Dr. Elif Öğüt'ün Katkıları",
+                "content": "Bu süreçte; çalışkanlığı, yapıcı yaklaşımı ve liderliğiyle akademiye değer katan Prof. Dr. Elif Öğüt’ün katkıları, ortak vizyonumuz açısından son derece ilham vericiydi. Üniversiteler arası sinerjiye dayalı bu temasın; ortak akıl ve paylaşılmış sorumluluk temelinde güçlenerek devam etmesi konusunda mutabık kaldık. 'Daha iyi bir üniversite mümkündür' anlayışıyla, yerel sınırları aşan ve ulusal ölçekte değer üreten bir akademik ekosistem için kararlılıkla çalışmaya devam edeceğiz."
+            },
+            {
+                "title": "Eryetiş & Balkanlar Eğitim Kurumları Protokolü",
+                "content": "Üniversitemizin kapıları geleceğin bilim insanlarına sonuna kadar açılıyor! Eryetiş & Balkanlar Eğitim Kurumları ile imzaladığımız protokolle; Özel Balkanlar Koleji ve SİBERYETİŞ öğrencilerini 'Araştırma Ortağımız' olarak kampüsümüze dahil ediyoruz. Genç paydaşlarımız; Laboratuvarlarımızda deney yapacak, Kütüphanemizde araştırma yürütecek, Akademisyenlerimizden mentorluk alarak kendi patentlerini geliştirecekler!"
+            },
+            {
+                "title": "Bilirkişilik Temel Eğitim Programı",
+                "content": "SON FIRSAT | Bilirkişilik Temel Eğitim Programı. Adalet Bakanlığı tarafından yayımlanan Bilirkişilik Başvuruları Hakkında Duyuruya göre; Bilirkişilik başvuruları 26 Ocak 2026 tarihinde sona erecektir. Bu kapsamda, 26 Ocak 2026 öncesinde düzenlenecek son 'Bilirkişilik Temel Eğitim' programıdır. Bilirkişilik başvurusu yapmayı planlayan tüm profesyoneller, bu eğitimden faydalanabilir."
+            },
+            {
+                "title": "Biyoteknoloji Enstitüsü Projesi",
+                "content": "Bilimsel araştırmaların nihai hedefi, karmaşık biyolojik süreçleri anlaşılır kılmak ve uygulanabilir çözümler üretmektir. Biyoteknoloji Enstitüsü Öğretim Üyemiz Doç. Dr. Mehmet Özbil’in araştırmacı kadrosunda bulunduğu uluslararası proje, TÜBİTAK 2515 desteğiyle hayata geçmektedir. Projenin odak noktası endotel hücre yaşlanması ve vasküler hastalıkların moleküler temeli."
+            },
+            {
+                "title": "Ulaşım Teknolojileri Projesi",
+                "content": "GTÜ Ulaşım Teknolojileri Enstitüsü Müdürümüz Prof. Dr. Arif Çağdaş Aydınoğlu’nun British Council destekli yeni projesiyle, ulaşımda dijital bir devrim başlatıyoruz. İstanbul’da sadece en hızlı yolu değil; çocuklu aileler, yaşlılar ve tüm vatandaşlarımız için en güvenli ve en erişilebilir rotayı planlayan yapay zekâ sistemini geliştiriyoruz."
+            },
+            {
+                "title": "YÖK 2025 Raporu",
+                "content": "Yükseköğretim Kurulu (YÖK) verileri açıklandı. GTÜ Ailesi olarak, bilimsel nitelikten öğrenci projelerine, çevreci kampüsten patente kadar her alanda zirveyi zorluyoruz. GTÜ’nün 2025 Karnesi: Türkiye 4.’sü: Olumlu sonuçlanan patent Oranı, Türkiye 5.’si: Yayın Kalitesi (Atıf Oranı), Türkiye 7.’si: Öğretim Üyesi Başına Yayın."
+            }
+        ],
+        "hashtags": [
+            "#işbirliği",
+            "#araştırmaüniversitesi",
+            "#GTÜ",
+            "#KOÜ",
+            "#akademi",
+            "#sürdürülebilirlik",
+            "#KocaeliyiAşanBaşarı",
+            "#Eğitim",
+            "#SiberGüvenlik",
+            "#KanatAç",
+            "#BilimeKanatAç",
+            "#AkıllıUlaşım",
+            "#GelecekBurada"
+        ]
+    },
+    {
+        "announcements": [
+            {
+                "title": "Türkiye 8.’si: Erişilebilirlik Envanteri",
+                "content": "Bu tablo; laboratuvarda sabahlayan hocalarımızın, atölyelerde ter döken öğrencilerimizin ve güçlü idari kadromuzun ortak başarısıdır. Nitelikli bilgi üretmeye ve ülkemize değer katmaya devam!"
+            },
+            {
+                "title": "Girişimcilik Ekosistemimizde Hasat Zamanı: GTÜ & Teknopark İstanbul İş Birliği",
+                "content": "Gebze Teknik Üniversitesi olarak, araştırma odaklı vizyonumuzu sanayinin merkezine taşımaya devam ediyoruz. Teknopark İstanbul HASAT 2025 kapsamında imzaladığımız protokol ile girişimci paydaşlarımız için yeni bir dönem başlattık. İş Birliğinin Kapsamında Neler Var? GTÜ laboratuvarlarında yetişen girişimcilerimize Teknopark İstanbul’un yatırımcı ağlarına doğrudan erişim sağladık. Araştırma ortaklarımızın (öğrencilerimiz ve akademisyenlerimiz) geliştirdiği teknolojilerin ticarileşme süreçlerini hızlandırdık. Kampüsümüzün 7/24 yaşayan üretim gücünü, Türkiye’nin en büyük teknoloji merkezlerinden biriyle birleştirdik. Bu adım, milli teknoloji hamlesi yolunda attığımız kararlı adımlardan biridir."
+            },
+            {
+                "title": "Gelecek Ailede Başlar!",
+                "content": "Üniversitemiz birimleri sahada, toplumsal farkındalık en yüksek perdede! GTÜ Kadın ve Aile Çalışmaları Uygulama ve Araştırma Merkezi (KUAM) ve Bilim İletişimi Ofisimiz koordinasyonunda; Çayırova Sosyal Hizmet Merkezi Müdürlüğü iş birliğiyle '2025 Aile Yılı' kapsamında 'Güçlü Aile, Güçlü Gelecek' dedik. Neler Konuştuk? Aile içi iletişimin şifreleri, Erken çocuklukta anne rolü, Bilimsel verilerle güçlü toplum yapısı."
+            },
+            {
+                "title": "GTÜ Sofrasında 65 Ülke, Tek Bir Hedef: Bilim!",
+                "content": "Dünyanın dört bir yanından gelerek ailemize katılan uluslararası araştırma ortaklarımızla geleneksel kahvaltımızda buluştuk. Farklı diller, farklı kültürler ama tek bir tutku; araştırmak ve üretmek! GTÜ kampüsü, 65+ ülkeden gelen enerjisiyle 7/24 yaşayan bir bilim üssü olmaya devam ediyor."
+            }
+        ]
+    },
+    {
+        "university": "Gebze Teknik Üniversitesi",
+        "youtube_channel": {
+            "subscribers": 3440,
+            "videos_count": 353,
+            "description": "Gebze Teknik Üniversitesinin resmi Youtube kanalıdır.",
+            "videos": [
+                {
+                    "title": "Gebze Teknik Üniversitesi Tanıtım Filmi 2024",
+                    "views": 7503,
+                    "upload_date": "1 year ago"
+                },
+                {
+                    "title": "GTÜ Destekli Proje NASA'da",
+                    "views": 297,
+                    "upload_date": "3 months ago"
+                },
+                {
+                    "title": "NTV DOĞRU TERCİH Programı (29.07.2025)",
+                    "views": 320,
+                    "upload_date": "4 months ago"
+                },
+                {
+                    "title": "Akit Tv Eğitim Atlası Programı (06.08.2025)",
+                    "views": 177,
+                    "upload_date": "4 months ago"
+                },
+                {
+                    "title": "Makine Mühendisliği Aday Öğrenci Tanıtım Toplantısı - 2025",
+                    "views": 262,
+                    "upload_date": "4 months ago"
+                },
+                {
+                    "title": "GTÜ Siber Güvenlik Meslek Yüksek Okulu Aday Öğrenci Tanıtım Toplantısı - 2025",
+                    "views": 151,
+                    "upload_date": "4 months ago"
+                },
+                {
+                    "title": "GTÜ İşletme Bölümü Aday Öğrenci Tanıtım Toplantısı - 2025",
+                    "views": 280,
+                    "upload_date": "4 months ago"
+                }
+            ]
+        },
+        "official_links": [
+            "https://www.gtu.edu.tr",
+            "https://www.instagram.com/gtuedutr",
+            "https://www.x.com/gtuedutr",
+            "https://www.facebook.com/gtuedutr"
+        ]
+    },
+    {
+        "university": {
+            "name": "Gebze Teknik Üniversitesi",
+            "rector": {
+                "name": "Prof. Dr. Hacı Ali Mantar",
+                "birth_year": 1969,
+                "birth_place": "Tokat Zile",
+                "education": [
+                    {
+                        "degree": "Bachelor",
+                        "field": "Electronics and Communication Engineering",
+                        "institution": "İstanbul Teknik Üniversitesi",
+                        "year": 1993
+                    },
+                    {
+                        "degree": "Master",
+                        "field": "Computer Engineering",
+                        "institution": "Syracuse University",
+                        "year": 1998
+                    },
+                    {
+                        "degree": "PhD",
+                        "field": "Computer Engineering",
+                        "institution": "Syracuse University",
+                        "year": 2003
+                    }
+                ],
+                "career": [
+                    {
+                        "position": "Founding Department Chair",
+                        "department": "Computer Engineering",
+                        "institution": "Harran University",
+                        "year": 2004
+                    },
+                    {
+                        "position": "Faculty Member",
+                        "department": "Computer Engineering",
+                        "institution": "Gebze Teknik Üniversitesi",
+                        "year": 2006
+                    },
+                    {
+                        "position": "Associate Professor",
+                        "institution": "Gebze Teknik Üniversitesi",
+                        "year": 2010
+                    },
+                    {
+                        "position": "Professor",
+                        "institution": "Gebze Teknik Üniversitesi",
+                        "year": 2015
+                    }
+                ],
+                "roles": [
+                    {
+                        "position": "Board Member",
+                        "organization": "TÜBİTAK ULAKBİM",
+                        "years": "2006-2018"
+                    },
+                    {
+                        "position": "Committee Member",
+                        "organization": "European Union Cybersecurity Agency",
+                        "year": 2010
+                    },
+                    {
+                        "position": "Member",
+                        "organization": "Turkish Academy of Sciences",
+                        "year": 2013
+                    },
+                    {
+                        "position": "Part-time Lecturer",
+                        "institutions": [
+                            "Naval Academy",
+                            "Işık University",
+                            "Doğuş University"
+                        ],
+                        "years": "2006-2014"
+                    },
+                    {
+                        "position": "Deputy Director",
+                        "organization": "TÜBİTAK BİLGEM",
+                        "years": "2015"
+                    },
+                    {
+                        "position": "Center Director",
+                        "organization": "TÜBİTAK BİLGEM",
+                        "years": "2015-2020"
+                    },
+                    {
+                        "position": "Chairman",
+                        "organization": "HAVELSAN",
+                        "years": "2018-2020"
+                    },
+                    {
+                        "position": "Vice Chairman",
+                        "organization": "HAVELSAN",
+                        "years": "2020-2022"
+                    },
+                    {
+                        "position": "Rector",
+                        "institution": "Gebze Teknik Üniversitesi",
+                        "year": 2022
+                    }
+                ],
+                "research_interests": [
+                    "Communication and Network Protocols",
+                    "Wired and Wireless Communication Technologies",
+                    "Computer Networks",
+                    "Network Architectures",
+                    "Information Systems",
+                    "Software Defined Networks (SDN)",
+                    "Distributed Systems",
+                    "Network Security",
+                    "Forensic Computing"
+                ],
+                "personal_life": {
+                    "marital_status": "Married",
+                    "children": 4
+                }
+            },
+            "contact": {
+                "email": "okalem@gtu.edu.tr",
+                "phone": "+90 (262) 605 15 01",
+                "fax": "+90 (262) 653 84 90"
+            },
+            "last_updated": "03 Haziran 2025"
+        }
+    },
+    {
+        "university": "Gebze Teknik Üniversitesi",
+        "faculties": [
+            {
+                "name": "Temel Bilimler Fakültesi",
+                "departments": [
+                    "Fizik",
+                    "Matematik",
+                    "Kimya",
+                    "Moleküler Biyoloji ve Genetik"
+                ]
+            },
+            {
+                "name": "Mühendislik Fakültesi",
+                "departments": [
+                    "Bilgisayar Mühendisliği",
+                    "Biyomühendislik",
+                    "Çevre Mühendisliği",
+                    "Elektronik Mühendisliği",
+                    "Endüstri Mühendisliği",
+                    "Harita Mühendisliği",
+                    "İnşaat Mühendisliği",
+                    "Kimya Mühendisliği",
+                    "Makine Mühendisliği",
+                    "Malzeme Bilimi ve Mühendisliği",
+                    "Uçak Mühendisliği",
+                    "Veri Bilimi ve Analitiği"
+                ]
+            },
+            {
+                "name": "Mimarlık Fakültesi",
+                "departments": [
+                    "Mimarlık",
+                    "Endüstriyel Tasarım",
+                    "Şehir ve Bölge Planlama"
+                ]
+            },
+            {
+                "name": "Havacılık ve Uzay Bilimleri Fakültesi",
+                "departments": []
+            },
+            {
+                "name": "İşletme Fakültesi",
+                "departments": [
+                    "İktisat",
+                    "İşletme",
+                    "Strateji Bilimi",
+                    "Yönetim Bilişim Sistemleri"
+                ]
+            }
+        ],
+        "last_updated": "11 Temmuz 2025"
+    },
+    {
+        "university": "Gebze Teknik Üniversitesi",
+        "institutes": [
+            "Bilişim Teknolojileri Enstitüsü",
+            "Biyoteknoloji Enstitüsü",
+            "Enerji Teknolojileri Enstitüsü",
+            "Lisansüstü Eğitim Enstitüsü",
+            "Nanoteknoloji Enstitüsü",
+            "Ulaşım Teknolojileri Enstitüsü",
+            "Savunma Enstitüsü",
+            "Yer ve Deniz Bilimleri Enstitüsü"
+        ],
+        "last_updated": "02 Aralık 2024"
+    },
+    {
+        "YÖK_Lisans_Atlası": {
+            "description": "Bu yazılım, üniversite adaylarının, üniversite ve meslek tercihi yaparken daha bilinçli tercihler yapabilmesi amacıyla hazırlanmıştır.",
+            "function": "YÖK tarafından derlenebilecek/paylaşılabilecek işlenmiş verilerin yer aldığı seçkin ve güvenilir referans kaynağı.",
+            "features": {
+                "university_selection": {
+                    "description": "Üniversite Seç kutucuğuna üniversite ismi girerek, o üniversitedeki lisans programlarının listesini görebilirsiniz.",
+                    "details": "Detayları görmek için programın üstüne tıklayabilirsiniz."
+                },
+                "program_selection": {
+                    "description": "Program Seç kutucuğuna ilgi duyduğunuz programı (mesleği) girdiğinizde, bu isimli programların bulunduğu üniversiteleri görebilirsiniz.",
+                    "details": "Detaylarını görmek istediğiniz program için üniversitesinin üzerini tıklayabilirsiniz."
+                }
+            },
+            "data_indicators": {
+                "admissions": {
+                    "indicators": [
+                        "Kontenjan, yerleşen, kayıt yaptıran, ek yerleşen, ek kayıt yaptıran sayıları",
+                        "Yerleşenlerin cinsiyet dağılımı",
+                        "Yerleşenlerin geldikleri coğrafi bölgeler",
+                        "Yerleşenlerin geldikleri iller",
+                        "Yerleşenlerin öğrenim durumu",
+                        "Yerleşenlerin liseden mezuniyet yılları",
+                        "Yerleşenlerin mezun oldukları lise alanları",
+                        "Yerleşenlerin mezun oldukları lise grupları / lise tipleri",
+                        "Yerleşenlerin mezun oldukları liseler",
+                        "Yerleşen okul birincileri",
+                        "Taban puan ve başarı sırası istatistikleri",
+                        "Yerleşen son kişinin profili",
+                        "Yerleşenlerin YKS net ortalamaları",
+                        "Yerleşenlerin YKS puanları",
+                        "Yerleşenlerin YKS başarı sıraları",
+                        "Ülke genelinde tercih edilme istatistikleri",
+                        "Yerleşenlerin ortalama kaçıncı tercihlerine yerleştikleri",
+                        "Yerleşenlerin tercih eğilimleri – Üniversite türleri",
+                        "Yerleşenlerin tercih eğilimleri – Üniversiteler",
+                        "Yerleşenlerin tercih eğilimleri – İller",
+                        "Yerleşenlerin tercih eğilimleri – Aynı/Farklı programlar",
+                        "Yerleşenlerin tercih eğilimleri – Programlar (Meslekler)",
+                        "Yerleşme koşulları"
+                    ]
+                },
+                "higher_education_process": {
+                    "indicators": [
+                        "Öğretim üyesi sayısı ve ünvan dağılımı",
+                        "Kayıtlı öğrenci sayısı",
+                        "Kayıtlı yabancı öğrenci sayısı",
+                        "Programdan mezun olan öğrenci sayısı",
+                        "Değişim Programları ile giden/gelen öğrenci sayısı",
+                        "Yatay geçiş ile gelen öğrenci sayısı"
+                    ]
+                }
+            },
+            "target_audience": [
+                "yükseköğretime geçiş aşamasındaki öğrenciler",
+                "öğrenci aileleri",
+                "ortaöğretim seviyesindeki eğitimciler",
+                "eğitim yöneticileri",
+                "yükseköğretim seviyesinde akademisyenler",
+                "araştırmacılar",
+                "yöneticiler"
+            ],
+            "coverage": "Yazılım YKS’de Merkezi Yerleştirme ile öğrenci alan üniversitelerin lisans programlarını (fakülte/yüksekokul) kapsamaktadır."
+        }
+    },
+    {
+        "announcements": [
+            {
+                "title": "Yükseköğretim ile Savunma Sanayisi Arasında Stratejik İş Birliği",
+                "content": "Yükseköğretim Kurulu, SSB, TUSAŞ ve dokuz üniversite arasında 'Lisansüstü Eğitim İş Birliği Protokolleri' imzalandı."
+            },
+            {
+                "title": "OSB-MYO’lar Yükseköğretimde Dönüşümün Merkezinde",
+                "content": "OSB-MYO mezunlarının istihdam oranı yüzde 92 ile rekor seviyeye ulaştı. Sanayinin kalbinde uygulamalı eğitim gören öğrenciler 15 bin TL burs alıyor."
+            },
+            {
+                "title": "Yükseköğretim Kurulundan 'Engelsiz Üniversite'lere 'Bayrak ve Nişan' Ödülü",
+                "content": "En çok bayrak alan üniversiteler sıralamasında Yozgat Bozok Üniversitesi birinci, Necmettin Erbakan Üniversitesi ikinci olurken, Dokuz Eylül Üniversitesi üçüncü oldu."
+            },
+            {
+                "title": "Yükseköğretim Kurulu Başkanı Erol Özvar İstanbul’da",
+                "content": "Fatih Sultan Mehmet Vakıf Üniversitesini (FSMVÜ) ve Mimar Sinan Güzel Sanatlar Üniversitesini (MSGSÜ) ziyaret etti. 'Üniversiteden 3 yılda mezuniyet imkânı, hem mali açıdan ciddi bir tasarruf sağlayacak hem de öğrenciler daha kısa sürede eğitimlerini tamamlayabilecek.'"
+            },
+            {
+                "title": "Yükseköğretim Kurulu Başkanı Özvar'dan Önemli Açıklamalar",
+                "content": "'Bir sene içerisinde 3 sömestir ile lisans eğitimi 3 yılda tamamlanabilecek. Devlet üniversiteleri gibi vakıf üniversiteleri de bu imkânı sunacak.'"
+            },
+            {
+                "title": "Üniversite İzleme ve Değerlendirme Genel Raporu-2025",
+                "content": "Üniversite İzleme ve Değerlendirme Genel Raporu-2025 yayımlandı."
+            }
+        ],
+        "job_opportunities": [
+            {
+                "title": "Yükseköğretim Kurulu Uzman Yardımcısı Alım İlanı",
+                "content": "Kurulumuza Yapılacak Diploma Denklik Başvuru Ücretleri Hakkında."
+            },
+            {
+                "title": "Sözleşmeli Bilişim Personeli Sözlü Sınavı Yedek İlanı",
+                "content": "13.11.2025-14.11.2025 tarihlerinde yapılan Sözleşmeli Bilişim Personeli sözlü sınavı yedek ilanı."
+            },
+            {
+                "title": "Yurt Dışında Görevlendirilecek Öğretim Üyesi/Öğretim Görevlisi/Okutman Seçme Sınavı",
+                "content": "(2026) Brunei Darusselam’da düzenlenecek 11. Yüksek Eğitim Fuarı."
+            },
+            {
+                "title": "Sözleşmeli Bilişim Personeli Sözlü Sınav Sonuçları",
+                "content": "13.11.2025-14.11.2025 tarihlerinde yapılan Sözleşmeli Bilişim Personeli Sözlü Sınav Sonuçları."
+            },
+            {
+                "title": "Nevai ve Doğu Rönesansı Konulu Sempozyum",
+                "content": "Detaylar henüz açıklanmadı."
+            }
+        ]
+    },
+    {},
+    {
+        "title": "Mezun Başarı Atlası",
+        "description": "Mezun Başarı Atlası Hakkında",
+        "content": {
+            "purpose": "2025 Tercih Kılavuzu’nda yer alan lisans programlarından mezun olanların merkezi uzmanlık sınavlarında gösterdikleri başarıyı görün değerlendirin. Sadece girdi değil, çıktı kalitesini de sınayın.",
+            "exam_success": [
+                "KPSS-1",
+                "KPSS-2",
+                "TUS-TT1",
+                "TUS-TT2",
+                "TUS-KTP",
+                "DUS",
+                "AB-AYB"
+            ],
+            "note": "02.06.2025 tarihi itibarıyla sonucu açıklanan son sınavın verileri kullanılmıştır."
+        }
+    },
+    {
+        "university": {
+            "name": "Gebze Teknik Üniversitesi",
+            "news": [
+                {
+                    "title": "GTÜ ve Eryetiş & Balkanlar Eğitim Kurumlarından Bilimsel İş Birliği",
+                    "content": "GTÜ, Eryetiş ve Balkanlar Eğitim Kurumları ile bilimsel iş birliği yapmaktadır."
+                },
+                {
+                    "title": "GTÜ’den Toplumsal Dayanışma Örneği: “Engelsiz Buluşma”",
+                    "content": "GTÜ, toplumsal dayanışma örneği olarak 'Engelsiz Buluşma' etkinliği düzenlemiştir."
+                },
+                {
+                    "title": "Öğrenci Toplulukları Dönem Sonu Değerlendirmesi",
+                    "content": "Öğrenci topluluklarının dönem sonu değerlendirmesi yapılmıştır."
+                },
+                {
+                    "title": "GTÜ ve Halkbank Arasında Maaş Ödeme Protokolü",
+                    "content": "GTÜ, Halkbank ile maaş ödeme protokolü imzalamıştır."
+                },
+                {
+                    "title": "Mimarlık Bölümü Öğrencilerimize Ulusal Yarışmada Birincilik Ödülü",
+                    "content": "Mimarlık bölümü öğrencileri ulusal yarışmada birincilik ödülü kazanmıştır."
+                },
+                {
+                    "title": "GTÜ ve TUSAŞ Arasında Stratejik İş Birliği",
+                    "content": "GTÜ, TUSAŞ ile stratejik iş birliği anlaşması yapmıştır."
+                },
+                {
+                    "title": "Akademisyenimiz TÜBA Genç Akademi Yönetiminde",
+                    "content": "GTÜ akademisyeni, TÜBA Genç Akademi yönetiminde yer almıştır."
+                },
+                {
+                    "title": "PowerCraft Mühendisleri Sertifikalarını GTÜ’de Aldı",
+                    "content": "PowerCraft mühendisleri, sertifikalarını GTÜ'de almıştır."
+                },
+                {
+                    "title": "3. Türk Halk Müziği Konseri Büyük İlgi Gördü",
+                    "content": "3. Türk Halk Müziği konseri büyük ilgi görmüştür."
+                },
+                {
+                    "title": "Akademisyenimize TÜBİTAK Uluslararası Genç Araştırmacılar Desteği",
+                    "content": "GTÜ akademisyenine, TÜBİTAK uluslararası genç araştırmacılar desteği verilmiştir."
+                },
+                {
+                    "title": "GTÜ’den Akademik Yayıncılıkta Yeni Dönem",
+                    "content": "GTÜ, akademik yayıncılıkta yeni bir döneme girmiştir."
+                },
+                {
+                    "title": "Dijital Dönüşümde 10 Yıllık Sürdürülebilirlik Başarısı",
+                    "content": "GTÜ, dijital dönüşümde 10 yıllık sürdürülebilirlik başarısını elde etmiştir."
+                }
+            ],
+            "events": [
+                {
+                    "date": "08 Ocak",
+                    "title": "Sanayide Yeşil Dönüşüm: Tehditler ve Fırsatlar Webinar"
+                },
+                {
+                    "date": "02 Ocak",
+                    "title": "Endüstriyel Tasarım Bölümü Semineri"
+                },
+                {
+                    "date": "02 Ocak",
+                    "title": "Doç. Dr. Hanife Deniz YURTSEVEN’in Semineri"
+                },
+                {
+                    "date": "30 Aralık",
+                    "title": "Ulaşım Teknolojileri Enstitüsü Seminer Sunumları"
+                },
+                {
+                    "date": "30 Aralık",
+                    "title": "Sağlık İçin Adım Atıyoruz!"
+                },
+                {
+                    "date": "26 Aralık",
+                    "title": "Mimarlık ve Kent Filmleri Gösterimi - III"
+                },
+                {
+                    "date": "25 Aralık",
+                    "title": "Biyoteknoloji Enstitüsü - Excel4Pro 'Chat & Taste' Etkinliği"
+                },
+                {
+                    "date": "25 Aralık",
+                    "title": "Ülkemizin İlk Deneysel Test Pilotu Murat Özpala ile Söyleşi (Havacılık ve Uzay Kulübü)"
+                },
+                {
+                    "date": "24 Aralık",
+                    "title": "3. Türk Halk Müziği Konseri"
+                },
+                {
+                    "date": "24 Aralık",
+                    "title": "Kimya Bölümü Genel Seminerleri"
+                }
+            ],
+            "announcements": [
+                {
+                    "date": "28 Aralık",
+                    "title": "Öğretim Elemanı Alım İlanı",
+                    "details": "28.12.2025 tarihli öğretim elemanı alım ilanı."
+                },
+                {
+                    "date": "28 Aralık",
+                    "title": "Öğretim Üyesi Alım İlanı",
+                    "details": "28.12.2025 tarihli öğretim üyesi alım ilanı."
+                },
+                {
+                    "date": "26 Aralık",
+                    "title": "Öğretim Elemanı Alım İlanı",
+                    "details": "26.12.2025 tarihli öğretim elemanı alım ilanı."
+                },
+                {
+                    "date": "26 Aralık",
+                    "title": "Öğretim Üyesi Alım İlanı",
+                    "details": "26.12.2025 tarihli öğretim üyesi alım ilanı."
+                },
+                {
+                    "date": "22 Aralık",
+                    "title": "2025 Yılı Akademik Teşvik Ödeneği Başvuru Süreci Hakkında",
+                    "details": "2025 yılı akademik teşvik ödeneği başvuru süreci hakkında bilgi."
+                },
+                {
+                    "date": "22 Aralık",
+                    "title": "TU11 BAP İş Birliği Araştırma Projeleri Sonuçları Açıklandı",
+                    "details": "TU11 BAP iş birliği araştırma projeleri sonuçları açıklanmıştır."
+                },
+                {
+                    "date": "19 Aralık",
+                    "title": "Akademik Başarılara Özel Çağrı",
+                    "details": "Akademik başarılara özel çağrı yapılmıştır."
+                },
+                {
+                    "date": "15 Aralık",
+                    "title": "Sözleşmeli Personel Alım İlanı",
+                    "details": "15.12.2025 tarihli sözleşmeli personel alım ilanı."
+                },
+                {
+                    "date": "13 Aralık",
+                    "title": "Öğretim Elemanı Alım İlanı - 09.12.2025 Tarihli İlan GÜNCELLEMESİ",
+                    "details": "09.12.2025 tarihli ilan güncellenmiştir."
+                },
+                {
+                    "date": "12 Aralık",
+                    "title": "2026 Yılı Araştırma Üniversitesi Destek Programı Projesi Çağrısı",
+                    "details": "2026 yılı araştırma üniversitesi destek programı projesi çağrısı yapılmıştır."
+                }
+            ],
+            "student_info": {
+                "total_students": 10861,
+                "total_staff": 1271,
+                "services": [
+                    "Öğrenci İşleri Dairesi Başkanlığı",
+                    "Öğrenci Bilgi Sistemi",
+                    "AKTS-TYYÇ Bilgi Paketi",
+                    "Öğrenci Konseyi",
+                    "Öğrenci Toplulukları Koordinatörlüğü",
+                    "Kariyer Geliştirme Merkezi",
+                    "Kütüphane",
+                    "Burslar"
+                ]
+            },
+            "campus_services": [
+                "Akademik Bilgi Sistemi",
+                "Anibal Bilgi Sistemi",
+                "Ek Ders Takip Sistemi",
+                "Personel Atama ve Yükseltme Sistemi (PAYS)",
+                "Akademik Teşvik Yönetim Sistemi",
+                "EBYS",
+                "İSG Birimi",
+                "Talep Yönetim Sistemi",
+                "Sonuç Açıklama Sistemi",
+                "Döner Sermaye İşletme Müdürlüğü",
+                "e-Bap Sistemi"
+            ],
+            "sustainability_office": "Sürdürülebilirlik Ofisi",
+            "social_contribution_office": "Toplumsal Katkı Koordinatörlüğü",
+            "quality_management_system": "Kalite Yönetim Sistemi",
+            "bap": "BAP",
+            "accessible_unit": "Engelsiz GTÜ Birimi",
+            "ai_ethics_guide": "Yapay Zeka Etik Rehberi",
+            "easy_campus": "Kolay Kampüs",
+            "transportation": {
+                "campus_map": "Kampüs Haritası",
+                "shuttle_service_hours": "Kampüs İçi Ring Servis Saatleri",
+                "menu": "Yemek Listesi ve Mobil Uygulama",
+                "meal_loading": "Yemekhane Para Yükleme",
+                "appointments": "Diş-Psikolog-Diyetisyen Randevu Sistemi"
+            }
+        }
+    },
+    {
+        "university": {
+            "name": "Gebze Teknik Üniversitesi",
+            "programs": {
+                "associate_degree": "Ön lisans",
+                "bachelor_degree": "Lisans",
+                "master_degree": "Yüksek Lisans",
+                "doctorate": "Doktora"
+            },
+            "general_information_for_students": {
+                "diploma_supplement": "Diploma Eki",
+                "akts_tyyc_information_package": "AKTS–TYYÇ Bilgi Paketi"
+            },
+            "akts_tyyc": {
+                "definition": "Gebze Teknik Üniversitesi AKTS–TYYÇ Bilgi Paketi, Üniversitede yürütülen Türkiye Yeterlilikler Çerçevesi ve onunla paralel uygulanan Avrupa Kredi Transfer Sistemi çalışmalarını sunmaktadır.",
+                "tyyc": {
+                    "definition": "Türkiye Yükseköğretim Yeterlilikler Çerçevesi (TYYÇ), Avrupa Birliği (AB) tarafından 2000 yılında yayınlanan Lizbon Stratejisi hedefleri ve ülkemizin 2001 yılında dahil olduğu Bologna Süreci hedeflerine yönelik olarak, Bologna Süreci'ne üye ülkelerin yükseköğretim sistemlerinde şeffaflık, tanınma ve hareketliliği artırma amaçlarıyla 2010 yılına kadar oluşturmayı taahhüt ettikleri 'yükseköğretim alanında ulusal yeterlilikler çerçevesi geliştirme' konusunda ulusal düzeyde gerçekleştirilen çalışmaları kapsar.",
+                    "importance": "Yükseköğretim alanında yeterlilik, herhangi bir yükseköğretim derecesini başarı ile tamamlayan bir kişinin neleri bilebileceği, neleri yapabileceği ve nelere yetkin olacağını ifade eder."
+                },
+                "akts": {
+                    "definition": "Avrupa Kredi Transfer ve Toplama Sistemi; tercihen öğrenme çıktıları ve elde edilecek yeterlilikler açısından belirlenen program hedeflerine ulaşmak için gerekli öğrenci iş yüküne dayanan, öğrenci merkezli bir sistemdir.",
+                    "history": {
+                        "introduction": "AKTS şu anda Hayatboyu Öğrenme programının bir parçası olarak, Erasmus çerçevesinde 1989 yılında tanıtılmıştır.",
+                        "development": "Başlangıçta kredi transferi için oluşturulan AKTS, başarıyla test edilmiş ve günümüzde Avrupa’da kullanılmakta olan tek kredi sistemi haline gelmiştir."
+                    },
+                    "purpose": "AKTS yerli ve yabancı tüm öğrencilerin öğrenim görmelerini ve eğitimlerini karşılaştırmalarını kolaylaştırmak için eğitim programları hazırlar.",
+                    "features": {
+                        "credit_system": "AKTS bir akademik yıl boyunca tam zamanlı bir öğrencinin iş yükünün 60 krediyle ölçülmesi kuralına dayanır.",
+                        "workload": "Avrupa’da tam zamanlı bir eğitim programının öğrenci iş yükü, birçok durumda bir kredinin 25 ile 30 çalışma saatine denk geldiği yıllık 1500 ile 1800 saat aralığındadır.",
+                        "credit_distribution": "AKTS kredilerinin dağılımı, bir eğitim programı döneminin resmi uzunluğuna dayanır."
+                    }
+                }
+            }
+        }
+    },
+    {
+        "AKTS": {
+            "krediler": {
+                "kazanım": "İstenilen çalışmaların tamamlanması ve öğrenme çıktılarının değerlendirilmesi ile kazanılabilir.",
+                "değerlendirme": {
+                    "sistem": "Yerel/ulusal not sistemi ve AKTS notu ile değerlendirilir.",
+                    "not_skalası": {
+                        "A": {
+                            "başarılı_yüzdesi": 10,
+                            "tanım": "MÜKEMMEL - sadece küçük hatalarla üstün performans"
+                        },
+                        "B": {
+                            "başarılı_yüzdesi": 25,
+                            "tanım": "ÇOK İYİ - ortalamanın üzerinde ancak bazı hataları var"
+                        },
+                        "C": {
+                            "başarılı_yüzdesi": 30,
+                            "tanım": "İYİ - dikkat edilmesi gereken hatalara rağmen iyi"
+                        },
+                        "D": {
+                            "başarılı_yüzdesi": 25,
+                            "tanım": "ORTA - kabul edilebilir ancak önemli eksikleri var"
+                        },
+                        "E": {
+                            "başarılı_yüzdesi": 10,
+                            "tanım": "GEÇER - asgari ölçüleri karşılayan"
+                        },
+                        "FX": {
+                            "başarılı_yüzdesi": null,
+                            "tanım": "BAŞARISIZ - kredi verilebilmesi için biraz daha çalışması gerekir"
+                        },
+                        "F": {
+                            "başarılı_yüzdesi": null,
+                            "tanım": "BAŞARISIZ - çok daha fazla çalışması gerekir"
+                        }
+                    },
+                    "notlar": {
+                        "FX_F_fark": "FX: 'Başarısız- kredi verilebilmesi için biraz daha çalışması gerekir', F: 'Başarısız- çok daha fazla çalışması gerekir'.",
+                        "başarısızlık_oranı": "Transkript kayıtlarına dahil edilmesi isteğe bağlıdır."
+                    }
+                },
+                "belgeler": {
+                    "AKTS_Bilgi_Paketi": {
+                        "tanım": "Ders Kataloğu, yurtdışından gelen misafir öğrenciler için bilgileri kapsar.",
+                        "yayın": "Kurumun web sayfasında ve/veya basılı olarak iki dilde yayımlanır."
+                    },
+                    "Öğrenim_Anlaşması": {
+                        "içerik": "Alınacak dersler ve kazanılacak krediler.",
+                        "onay": "Öğrenci ve ilgili kurumların yetkili akademik birimleri tarafından onaylanmalıdır."
+                    },
+                    "Transkript": {
+                        "tanım": "Öğrencinin aldığı dersler ve kazandığı notlar ile kredileri belgeler.",
+                        "düzenleme": "Ev sahibi kurum öğrenci ülkeden ayrılmadan önce düzenler."
+                    }
+                }
+            }
+        }
+    },
+    {
+        "university": {
+            "name": "Gebze Teknik Üniversitesi",
+            "news": [
+                {
+                    "title": "GTÜ ve Eryetiş & Balkanlar Eğitim Kurumlarından Bilimsel İş Birliği",
+                    "content": "Details about the scientific collaboration between GTU and Eryetiş & Balkanlar Educational Institutions."
+                },
+                {
+                    "title": "GTÜ’den Toplumsal Dayanışma Örneği: “Engelsiz Buluşma”",
+                    "content": "An example of social solidarity from GTU: 'Barrier-Free Meeting'."
+                },
+                {
+                    "title": "Öğrenci Toplulukları Dönem Sonu Değerlendirmesi",
+                    "content": "Evaluation of student clubs at the end of the semester."
+                },
+                {
+                    "title": "GTÜ ve Halkbank Arasında Maaş Ödeme Protokolü",
+                    "content": "Salary payment protocol between GTU and Halkbank."
+                },
+                {
+                    "title": "Mimarlık Bölümü Öğrencilerimize Ulusal Yarışmada Birincilik Ödülü",
+                    "content": "Architecture department students won first prize in a national competition."
+                },
+                {
+                    "title": "GTÜ ve TUSAŞ Arasında Stratejik İş Birliği",
+                    "content": "Strategic cooperation between GTU and TUSAŞ."
+                },
+                {
+                    "title": "Akademisyenimiz TÜBA Genç Akademi Yönetiminde",
+                    "content": "Our academic is in the management of TÜBA Young Academy."
+                },
+                {
+                    "title": "PowerCraft Mühendisleri Sertifikalarını GTÜ’de Aldı",
+                    "content": "PowerCraft engineers received their certificates at GTU."
+                },
+                {
+                    "title": "3. Türk Halk Müziği Konseri Büyük İlgi Gördü",
+                    "content": "The 3rd Turkish Folk Music Concert received great interest."
+                },
+                {
+                    "title": "Akademisyenimize TÜBİTAK Uluslararası Genç Araştırmacılar Desteği",
+                    "content": "Our academic received TÜBİTAK International Young Researchers Support."
+                },
+                {
+                    "title": "GTÜ’den Akademik Yayıncılıkta Yeni Dönem",
+                    "content": "A new era in academic publishing from GTU."
+                },
+                {
+                    "title": "Dijital Dönüşümde 10 Yıllık Sürdürülebilirlik Başarısı",
+                    "content": "10 years of sustainability success in digital transformation."
+                }
+            ],
+            "events": [
+                {
+                    "date": "08 Ocak",
+                    "title": "Sanayide Yeşil Dönüşüm: Tehditler ve Fırsatlar Webinar"
+                },
+                {
+                    "date": "02 Ocak",
+                    "title": "Endüstriyel Tasarım Bölümü Semineri"
+                },
+                {
+                    "date": "02 Ocak",
+                    "title": "Doç. Dr. Hanife Deniz YURTSEVEN’in Semineri"
+                },
+                {
+                    "date": "30 Aralık",
+                    "title": "Ulaşım Teknolojileri Enstitüsü Seminer Sunumları"
+                },
+                {
+                    "date": "30 Aralık",
+                    "title": "Sağlık İçin Adım Atıyoruz!"
+                },
+                {
+                    "date": "26 Aralık",
+                    "title": "Mimarlık ve Kent Filmleri Gösterimi - III"
+                },
+                {
+                    "date": "25 Aralık",
+                    "title": "Biyoteknoloji Enstitüsü - Excel4Pro 'Chat & Taste' Etkinliği"
+                },
+                {
+                    "date": "25 Aralık",
+                    "title": "Ülkemizin İlk Deneysel Test Pilotu Murat Özpala ile Söyleşi (Havacılık ve Uzay Kulübü)"
+                },
+                {
+                    "date": "24 Aralık",
+                    "title": "3. Türk Halk Müziği Konseri"
+                },
+                {
+                    "date": "24 Aralık",
+                    "title": "Kimya Bölümü Genel Seminerleri"
+                }
+            ],
+            "announcements": [
+                {
+                    "date": "28 Aralık",
+                    "title": "Öğretim Elemanı Alım İlanı",
+                    "content": "Announcement for faculty member recruitment (28.12.2025)."
+                },
+                {
+                    "date": "28 Aralık",
+                    "title": "Öğretim Üyesi Alım İlanı",
+                    "content": "Announcement for academic staff recruitment (28.12.2025)."
+                },
+                {
+                    "date": "26 Aralık",
+                    "title": "Öğretim Elemanı Alım İlanı",
+                    "content": "Announcement for faculty member recruitment (26.12.2025)."
+                },
+                {
+                    "date": "26 Aralık",
+                    "title": "Öğretim Üyesi Alım İlanı",
+                    "content": "Announcement for academic staff recruitment (26.12.2025)."
+                },
+                {
+                    "date": "22 Aralık",
+                    "title": "2025 Yılı Akademik Teşvik Ödeneği Başvuru Süreci Hakkında",
+                    "content": "Information about the application process for the 2025 Academic Incentive Payment."
+                },
+                {
+                    "date": "22 Aralık",
+                    "title": "TU11 BAP İş Birliği Araştırma Projeleri Sonuçları Açıklandı",
+                    "content": "Results of TU11 BAP collaboration research projects announced."
+                },
+                {
+                    "date": "19 Aralık",
+                    "title": "Akademik Başarılara Özel Çağrı",
+                    "content": "Special call for academic achievements."
+                },
+                {
+                    "date": "15 Aralık",
+                    "title": "Sözleşmeli Personel Alım İlanı",
+                    "content": "Announcement for contracted personnel recruitment (15.12.2025)."
+                },
+                {
+                    "date": "13 Aralık",
+                    "title": "Öğretim Elemanı Alım İlanı - 09.12.2025 Tarihli İlan GÜNCELLEMESİ",
+                    "content": "Update on faculty member recruitment announcement dated 09.12.2025."
+                },
+                {
+                    "date": "12 Aralık",
+                    "title": "2026 Yılı Araştırma Üniversitesi Destek Programı Projesi Çağrısı",
+                    "content": "Call for the 2026 Research University Support Program project."
+                }
+            ],
+            "student_info": {
+                "total_students": 10861,
+                "total_staff": 1271,
+                "departments": {
+                    "institutes": 5,
+                    "faculties": 1,
+                    "schools": 10
+                }
+            },
+            "services": [
+                "Öğrenci İşleri Dairesi Başkanlığı",
+                "Öğrenci Bilgi Sistemi",
+                "AKTS-TYYÇ Bilgi Paketi",
+                "Öğrenci Konseyi",
+                "Öğrenci Toplulukları Koordinatörlüğü",
+                "Kariyer Geliştirme Merkezi",
+                "Kütüphane",
+                "Burslar"
+            ]
+        }
+    },
+    {
+        "news": [
+            {
+                "title": "GTÜ ve Eryetiş & Balkanlar Eğitim Kurumlarından Bilimsel İş Birliği",
+                "content": "GTÜ ve Eryetiş & Balkanlar Eğitim Kurumları arasında bilimsel iş birliği anlaşması imzalanmıştır."
+            },
+            {
+                "title": "GTÜ’den Toplumsal Dayanışma Örneği: “Engelsiz Buluşma”",
+                "content": "GTÜ, engelsiz bir buluşma etkinliği düzenleyerek toplumsal dayanışma örneği sergilemiştir."
+            },
+            {
+                "title": "Öğrenci Toplulukları Dönem Sonu Değerlendirmesi",
+                "content": "Öğrenci toplulukları dönem sonu değerlendirmesi yapılmıştır."
+            },
+            {
+                "title": "GTÜ ve Halkbank Arasında Maaş Ödeme Protokolü",
+                "content": "GTÜ ve Halkbank arasında maaş ödeme protokolü imzalanmıştır."
+            },
+            {
+                "title": "Mimarlık Bölümü Öğrencilerimize Ulusal Yarışmada Birincilik Ödülü",
+                "content": "Mimarlık bölümü öğrencileri ulusal yarışmada birincilik ödülü kazanmıştır."
+            },
+            {
+                "title": "GTÜ ve TUSAŞ Arasında Stratejik İş Birliği",
+                "content": "GTÜ ve TUSAŞ arasında stratejik iş birliği anlaşması imzalanmıştır."
+            },
+            {
+                "title": "Akademisyenimiz TÜBA Genç Akademi Yönetiminde",
+                "content": "GTÜ akademisyenlerinden biri TÜBA Genç Akademi yönetiminde yer almıştır."
+            },
+            {
+                "title": "PowerCraft Mühendisleri Sertifikalarını GTÜ’de Aldı",
+                "content": "PowerCraft mühendisleri, sertifikalarını GTÜ’de almıştır."
+            },
+            {
+                "title": "3. Türk Halk Müziği Konseri Büyük İlgi Gördü",
+                "content": "3. Türk Halk Müziği konseri büyük ilgi görmüştür."
+            },
+            {
+                "title": "Akademisyenimize TÜBİTAK Uluslararası Genç Araştırmacılar Desteği",
+                "content": "GTÜ akademisyenine TÜBİTAK tarafından uluslararası genç araştırmacılar desteği verilmiştir."
+            },
+            {
+                "title": "GTÜ’den Akademik Yayıncılıkta Yeni Dönem",
+                "content": "GTÜ, akademik yayıncılıkta yeni bir dönem başlatmıştır."
+            },
+            {
+                "title": "Dijital Dönüşümde 10 Yıllık Sürdürülebilirlik Başarısı",
+                "content": "GTÜ, dijital dönüşümde 10 yıllık sürdürülebilirlik başarısını elde etmiştir."
+            }
+        ],
+        "events": [
+            {
+                "date": "08 Ocak",
+                "title": "Sanayide Yeşil Dönüşüm: Tehditler ve Fırsatlar Webinar"
+            },
+            {
+                "date": "02 Ocak",
+                "title": "Endüstriyel Tasarım Bölümü Semineri"
+            },
+            {
+                "date": "02 Ocak",
+                "title": "Doç. Dr. Hanife Deniz YURTSEVEN’in Semineri"
+            },
+            {
+                "date": "30 Aralık",
+                "title": "Ulaşım Teknolojileri Enstitüsü Seminer Sunumları"
+            },
+            {
+                "date": "30 Aralık",
+                "title": "Sağlık İçin Adım Atıyoruz!"
+            },
+            {
+                "date": "26 Aralık",
+                "title": "Mimarlık ve Kent Filmleri Gösterimi - III"
+            },
+            {
+                "date": "25 Aralık",
+                "title": "Biyoteknoloji Enstitüsü - Excel4Pro 'Chat & Taste' Etkinliği"
+            },
+            {
+                "date": "25 Aralık",
+                "title": "Ülkemizin İlk Deneysel Test Pilotu Murat Özpala ile Söyleşi (Havacılık ve Uzay Kulübü)"
+            },
+            {
+                "date": "24 Aralık",
+                "title": "3. Türk Halk Müziği Konseri"
+            },
+            {
+                "date": "24 Aralık",
+                "title": "Kimya Bölümü Genel Seminerleri"
+            }
+        ],
+        "announcements": [
+            {
+                "date": "28 Aralık",
+                "content": "Öğretim Elemanı Alım İlanı (28.12.2025)"
+            },
+            {
+                "date": "28 Aralık",
+                "content": "Öğretim Üyesi Alım İlanı (28.12.2025)"
+            },
+            {
+                "date": "26 Aralık",
+                "content": "Öğretim Elemanı Alım İlanı (26.12.2025)"
+            },
+            {
+                "date": "26 Aralık",
+                "content": "Öğretim Üyesi Alım İlanı (26.12.2025)"
+            },
+            {
+                "date": "22 Aralık",
+                "content": "2025 Yılı Akademik Teşvik Ödeneği Başvuru Süreci Hakkında"
+            },
+            {
+                "date": "22 Aralık",
+                "content": "TU11 BAP İş Birliği Araştırma Projeleri Sonuçları Açıklandı"
+            },
+            {
+                "date": "19 Aralık",
+                "content": "Akademik Başarılara Özel Çağrı"
+            },
+            {
+                "date": "15 Aralık",
+                "content": "Sözleşmeli Personel Alım İlanı (15.12.2025)"
+            },
+            {
+                "date": "13 Aralık",
+                "content": "Öğretim Elemanı Alım İlanı - 09.12.2025 Tarihli İlan GÜNCELLEMESİ (13.12.2025)"
+            },
+            {
+                "date": "12 Aralık",
+                "content": "2026 Yılı Araştırma Üniversitesi Destek Programı Projesi Çağrısı"
+            }
+        ],
+        "university_info": {
+            "name": "Gebze Teknik Üniversitesi",
+            "number_of_students": 10861,
+            "number_of_staff": 1271,
+            "faculties": 5,
+            "institutes": 1,
+            "schools": 1
+        }
+    }
+]

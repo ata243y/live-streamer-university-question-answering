@@ -1,0 +1,127 @@
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    background-color: #121212; /* Black background for dark theme */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #f1f1f1;
+}
+
+/* Chat Container */
+.chat-container {
+    width: 1000px;
+    max-width: 90%;
+    background: #1f1f1f; /* Darker background for the chat box */
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+/* Chat Messages */
+.chat-messages {
+    flex: 1;
+    padding: 15px;
+    background: #252525; /* Slightly lighter black */
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-height: 700px; /* Set a minimum height */
+    max-height: 800px; /* Optional: restrict maximum height */
+}
+
+.message {
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+    max-width: 75%;
+    margin: 5px 0;
+}
+
+.message.user {
+    align-self: flex-end;
+    flex-direction: row-reverse;
+}
+
+.message.bot {
+    align-self: flex-start;
+}
+
+.message .bubble {
+    padding: 12px 15px;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.message.user .bubble {
+    background:  #333333;
+    color: #fff;
+}
+
+.message.bot .bubble {
+    background: #333333;
+    color: #f1f1f1;
+}
+
+.message img.avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Input Container */
+.input-container {
+    display: flex;
+    padding: 15px;
+    gap: 10px;
+    background: #1f1f1f; /* Matches the chat box */
+    border-top: 1px solid #333333;
+}
+
+textarea,
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    background: #252525;
+    color: #f1f1f1;
+    border: 1px solid #333333;
+    border-radius: 6px;
+    font-size: 14px;
+    resize: none;
+}
+
+button {
+    padding: 10px;  
+    width: 50px;   
+    height: 50px;  
+    background: #333333;  
+    color: #666;    /* Grey color initially */
+    border: none;
+    border-radius: 50%;  /* Make it circular */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+button .send-icon {
+    font-size: 28px;
+}
+button:hover {
+    background: #007bff;
+    color: white;
+}
+
+/* When both inputs have content */
+button.active {
+    background: #007bff;
+    color: white;
+}

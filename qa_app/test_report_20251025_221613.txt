@@ -1,0 +1,62 @@
+============================================================
+GTÜ QA BOT DEĞERLENDİRME RAPORU
+============================================================
+
+Tarih: 2025-10-25 22:16:13
+
+📊 GENEL SONUÇLAR:
+  • Toplam Test: 110
+  • Başarılı: 103
+  • Başarı Oranı: %93.64
+  • Hata Sayısı: 0
+
+⏱️  PERFORMANS:
+  • Ortalama Yanıt Süresi: 68.342s
+  • Medyan Yanıt Süresi: 69.827s
+  • Maksimum Yanıt Süresi: 87.326s
+
+📂 KATEGORİ BAZLI BAŞARI ORANLARI:
+  • lisansustu          : 20/20 (%100.0)
+  • fikri_mulkiyet      : 10/10 (%100.0)
+  • kismi_zamanli       :  8/ 8 (%100.0)
+  • out_of_scope        : 10/10 (%100.0)
+  • yatay_gecis         : 14/15 (% 93.3)
+  • staj                : 11/12 (% 91.7)
+  • cap_yandal          : 18/20 (% 90.0)
+  • egitim              : 12/15 (% 80.0)
+
+🎯 ZORLUK SEVİYESİNE GÖRE:
+  • Easy      : 26/28 (% 92.9)
+  • Medium    : 57/60 (% 95.0)
+  • Hard      : 20/22 (% 90.9)
+
+❌ BAŞARISIZ TESTLER (7 adet):
+
+  1. [cap_yandal] ÇAP programından çıkarılma şartları nelerdir?
+     → Beklenen kelimeler bulunamadı
+
+  2. [cap_yandal] Yandal öğrencisi mezuniyet projesine katılır mı?
+     → Beklenen kelimeler bulunamadı
+
+  3. [yatay_gecis] Yatay geçişte hangi dersler muaf tutuluır?
+     → Beklenen kelimeler bulunamadı
+
+  4. [staj] Staj yapmazsam ne olur?
+     → Beklenen kelimeler bulunamadı
+
+  5. [egitim] Ders kaydını ne zamana kadar iptal edebilirim?
+     → Beklenen kelimeler bulunamadı
+
+  6. [egitim] Devamsızlık sınırı nedir?
+     → Beklenen kelimeler bulunamadı
+
+  7. [egitim] Bütünleme sınavına kimler girer?
+     → Beklenen kelimeler bulunamadı
+
+💡 ÖNERİLER:
+  ⚠️  Yanıt süreleri yüksek! Optimizasyon önerileri:
+     - Batch processing
+     - Cache mekanizması
+     - Model quantization
+
+============================================================

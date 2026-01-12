@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern ChatBot</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="../static/css/style.css">
+    
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-messages" id="chatMessages"></div>
+        <div class="input-container">
+            <input type="text" id="userInput" placeholder="Ask your question">
+            <button id="ttsButton" class="icon-button" title="Metni Oku">
+                <i class="fas fa-volume-up"></i>
+            </button>
+            
+            <button id="sendButton">
+                <i class="fas fa-paper-plane"></i>
+            </button>
+            
+        </div>
+    </div>
+    
+    <script src="../static/js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,946 @@
+{
+    "source_page": "http://www.kayseri.edu.tr/tr/detay/duyuru/tum-duyurular",
+    "total_found": 235,
+    "links": [
+        {
+            "url": "http://www.kayseri.edu.tr/",
+            "text": "[Aria: Ana sayfa - Kayseri Üniversitesi]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/home/changeculture?lang=en",
+            "text": "ENG"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-rektoru-prof-dr-kurtulus-karamustafa",
+            "text": "Rektörden"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-universitemizin-tarihcesi",
+            "text": "Tarihçemiz"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-misyon-vizyon-ve-temel-degerler",
+            "text": "Misyon, Vizyon ve Temel Değerler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-politikalarimiz",
+            "text": "Politikalarımız"
+        },
+        {
+            "url": "https://www.kayseri.edu.tr//EditorUpload/Files/cd78971d-29c5-4730-a3ff-aa424bcd2c51.pdf",
+            "text": "İncelemek için tıklayınız."
+        },
+        {
+            "url": "https://yesilkampus.kayseri.edu.tr/",
+            "text": "Yeşil Kampüs"
+        },
+        {
+            "url": "http://kvkk.kayseri.edu.tr/",
+            "text": "Kişisel Verilerin Korunması"
+        },
+        {
+            "url": "https://youtu.be/2tj6nED0toE",
+            "text": "Tanıtım Filmi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-organizasyon-semasi",
+            "text": "Organizasyon Şeması"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/yonetim/kayseri-universitesi-kalite-komisyonu",
+            "text": "Kalite Komisyonu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-rektor-yardimcilari",
+            "text": "Rektör Yardımcıları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/yonetim/kayseri-universitesi-senato",
+            "text": "Senato"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/yonetim/kayseri-universitesi-yonetim-kurulu-uyeleri",
+            "text": "Yönetim Kurulu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-rektor-danismanlari",
+            "text": "Rektör Danışmanları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-genel-sekreter",
+            "text": "Genel Sekreter"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/yonetim/kayseri-universitesi-danisma-kurulu",
+            "text": "Danışma Kurulu"
+        },
+        {
+            "url": "https://bkys.kayseri.edu.tr/editMemnuniyetYonetimi",
+            "text": "Memnuniyet Yönetim Sistemi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/akademik-birimler/kayseri-universitesi-fakulteler",
+            "text": "Fakülteler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/akademik-birimler/kayseri-universitesi-enstituler",
+            "text": "Enstitüler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/akademik-birimler/meslek-yuksekokullari",
+            "text": "Meslek Yüksekokulları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-genel-sekreterlik",
+            "text": "Genel Sekreterlik"
+        },
+        {
+            "url": "https://hukukmsv.kayseri.edu.tr/",
+            "text": "Hukuk Müşavirliği"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-daire-baskanliklari",
+            "text": "Daire Başkanlıkları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-mudurlukler",
+            "text": "Müdürlükler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-koordinatorlukler",
+            "text": "Koordinatörlükler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/dis-iliskiler-ofisi-baskanligi-kayseri-universitesi",
+            "text": "Dış İlişkiler Ofisi Başkanlığı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-birimler",
+            "text": "Birimler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-akademik-takvim",
+            "text": "Akademik Takvim"
+        },
+        {
+            "url": "https://sis.kayseri.edu.tr/",
+            "text": "Öğrenci Bilgi Sistemi(Ders Kayıt)"
+        },
+        {
+            "url": "https://ogrenci.kayseri.edu.tr/tr/i/23-1/katki-paylari",
+            "text": "Öğrenim Ücretleri"
+        },
+        {
+            "url": "https://ogrenci.kayseri.edu.tr/tr/i/35-1/taban-tavan-puanlar-kontenjanlar",
+            "text": "Taban-Tavan Puanlar"
+        },
+        {
+            "url": "https://ogrenci.kayseri.edu.tr/tr/duyurular",
+            "text": "Öğrenci Duyuruları"
+        },
+        {
+            "url": "https://ogrenci.kayseri.edu.tr/tr/sss",
+            "text": "Sıkça Sorulan Sorular"
+        },
+        {
+            "url": "https://sis.kayseri.edu.tr/oibs/bologna",
+            "text": "Ders Bilgi Paketi"
+        },
+        {
+            "url": "https://bologna.kayseri.edu.tr/",
+            "text": "Bologna Süreci"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-diploma-eki",
+            "text": "Diploma Eki"
+        },
+        {
+            "url": "https://ogrenci.kayseri.edu.tr/",
+            "text": "Öğrenci İşleri Daire Başkanlığı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-saglik-hizmetleri",
+            "text": "Sağlık Hizmetleri"
+        },
+        {
+            "url": "https://sksd.kayseri.edu.tr/tr/i/17-1/spor-salonu",
+            "text": "Spor Tesisleri"
+        },
+        {
+            "url": "https://sksd.kayseri.edu.tr/tr/i/18-1/yemekhaneler",
+            "text": "Beslenme"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-kultur-ve-sanat",
+            "text": "Kültür ve Sanat"
+        },
+        {
+            "url": "https://eob.kayseri.edu.tr/",
+            "text": "Engelsiz Üniversite"
+        },
+        {
+            "url": "https://kariyer.kayseri.edu.tr/",
+            "text": "Kariyer Geliştirme Merkezi"
+        },
+        {
+            "url": "https://www.yetenekkapisi.org/",
+            "text": "Yetenek Kapısı"
+        },
+        {
+            "url": "https://yuok.kayseri.edu.tr/",
+            "text": "Yabancı Uyruklu Öğrenci"
+        },
+        {
+            "url": "https://intoffice.kayseri.edu.tr/tr/i/2005-1/erasmus-nedir",
+            "text": "Erasmus"
+        },
+        {
+            "url": "https://intoffice.kayseri.edu.tr/tr/i/2009-1/mevlana",
+            "text": "Mevlana"
+        },
+        {
+            "url": "https://intoffice.kayseri.edu.tr/tr/i/2008-1/farabi",
+            "text": "Farabi"
+        },
+        {
+            "url": "http://mbs.kayseri.edu.tr/",
+            "text": "Mezun Bilgi Sistemi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/ogrenci/kayseri-universitesi-kulupler-ve-topluluklar",
+            "text": "Kulüpler ve Topluluklar"
+        },
+        {
+            "url": "https://kulup.kayseri.edu.tr/tr/haberler",
+            "text": "Öğrenci Faaliyetleri"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kanunlar",
+            "text": "Kanunlar"
+        },
+        {
+            "url": "https://bap.kayseri.edu.tr/",
+            "text": "Bilimsel Araştırma Projeleri Koordinatörlüğü"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-universite-dergileri",
+            "text": "Üniversite Dergileri"
+        },
+        {
+            "url": "https://etikkurul.kayseri.edu.tr/",
+            "text": "KAYÜ Etik Kurulu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-ascilik-akademisi",
+            "text": "Aşçılık Akademisi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-sanat-akademisi",
+            "text": "Sanat Akademisi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-gida-uretim-akademisi",
+            "text": "Gıda Üretim Akademisi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-arastirma-uygulama-merkezleri",
+            "text": "Araştırma Uygulama Merkezleri"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-iletisim",
+            "text": "İLETİŞİM"
+        },
+        {
+            "url": "https://rehber.kayseri.edu.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://intoffice.kayseri.edu.tr/",
+            "text": "Dış İlişkiler Ofisi"
+        },
+        {
+            "url": "https://yuok.kayseri.edu.tr/home/index",
+            "text": "YABANCI UYRUKLU ÖĞRENCİ"
+        },
+        {
+            "url": "https://mbs.kayseri.edu.tr",
+            "text": "MEZUN"
+        },
+        {
+            "url": "https://kalite.kayseri.edu.tr/",
+            "text": "KALİTE"
+        },
+        {
+            "url": "https://kayseri.edu.tr/rektorluk/randevu/Genel",
+            "text": "E-RANDEVU"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/hizmetler/e-hizmetler",
+            "text": "E-HİZMETLER"
+        },
+        {
+            "url": "https://www.facebook.com/kayseriedu",
+            "text": "[Aria: Facebook sayfamız]"
+        },
+        {
+            "url": "https://www.twitter.com/kayseriedu",
+            "text": "[Aria: Twitter sayfamız]"
+        },
+        {
+            "url": "https://www.instagram.com/kayseriedu",
+            "text": "[Aria: Instagram sayfamız]"
+        },
+        {
+            "url": "https://www.youtube.com/kayseriedu",
+            "text": "[Aria: YouTube kanalımız]"
+        },
+        {
+            "url": "https://nsosyal.com/@kayseriedutr",
+            "text": "[Aria: Next Sosyal sayfamız]"
+        },
+        {
+            "url": "https://www.kayseri.edu.tr/EditorUpload/Files/04745ef2-05c8-48ac-86b0-c42417a35d31.pdf",
+            "text": "Detaylı bilgi için tıklayınız."
+        },
+        {
+            "url": "https://intoffice.kayseri.edu.tr/tr/duyuru-detay/128/yabanci-uyruklu-ogrenci-basvurulari-baslamistir-ek-ilan",
+            "text": "Detaylı bilgi için tıklayınız"
+        },
+        {
+            "url": "https://www.kayseri.edu.tr/tr/detay/duyuru/yabanci-uyruklu-ogrenci-basvurulari-basladi",
+            "text": "Detaylı bilgi için tıklayınız"
+        },
+        {
+            "url": "https://www.kayseri.edu.tr/tr/haber/detay/kayseri-universitesi-7-yasinda",
+            "text": "Mesaj için tıklayınız."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/r/tum-rektorluk",
+            "text": "Tümünü Listele"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/kayu-rektoru-prof-dr-kurtulus-karamustafadan-2026-yili-mesaji",
+            "text": "KAYÜ Rektörü Prof. Dr. Kurtuluş Karamustafa'dan 2026 Yılı Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-regaib-kandili-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “Regaib Kandili” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-24-kasim-ogretmenler-gunu-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “24 Kasım Öğretmenler Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-10-kasim-ataturku-anma-gunu-mesajipg",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “10 Kasım Atatürk'ü Anma Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-29-ekim-cumhuriyet-bayrami-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “29 Ekim Cumhuriyet Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-mevlid-kandili-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “Mevlid Kandili” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-30-agustos-zafer-bayrami-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “30 Ağustos Zafer Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-universitemize-yeni-kayit-yaptiracak-ogrencilere-mesaj",
+            "text": "Rektörümüzden, Üniversitemize Yeni Kayıt Yaptıracak Öğrencilere Mesaj"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-malazgirt-zaferi-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan \"Malazgirt Zaferi\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/kayu-rektorunden-15-temmuz-demokrasi-ve-milli-birlik-gunu-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa'dan “15 Temmuz Demokrasi ve Milli Birlik Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-kurban-bayrami-mesaji5j",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “Kurban Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/kayseri-universitesi-kayu-rektoru-prof-dr-kurtulus-karamustafa-istanbulun-fethinin-572-yildonumu-munasebetiyle-bir-kutlama-mesaji-yayimladi",
+            "text": "Kayseri Üniversitesi (KAYÜ) Rektörü Prof. Dr. Kurtuluş Karamustafa, İstanbul’un Fethinin 572. Yıldönümü Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-19-mayis-ataturku-anma-genclik-ve-spor-bayrami-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “23 Nisan Ulusal Egemenlik ve Çocuk Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-49-turizm-haftasi-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa'dan \"49. Turizm Haftası\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-ramazan-bayrami-mesajigy",
+            "text": "Rektörümüzden “Ramazan Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-kadir-gecesi-mesajiri",
+            "text": "Rektörümüzden \"Kadir Gecesi\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-dunya-su-gunu-su-verimliligi-zirvesine-katildi",
+            "text": "Rektörümüz, \"Dünya Su Günü: Su Verimliliği Zirvesi'ne\" Katıldı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-21-mart-nevruz-bayrami-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa’dan “21 Mart Nevruz Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-karamustafadan-canakkale-deniz-zaferi-mesaji",
+            "text": "Rektörümüz Karamustafa'dan “Çanakkale Deniz Zaferi” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-istiklal-marsinin-kabulunun-104-yil-donumu-mesaji",
+            "text": "Rektörümüzden, İstiklal Marşı'nın Kabulünün 104. Yıl Dönümü Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-ramazan-ayi-mesajiwi",
+            "text": "Rektörümüzden “Ramazan ayı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-berat-kandili-mesaji",
+            "text": "Rektörümüzden “Berat Kandili” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-mirac-kandili-mesajivm",
+            "text": "Rektörümüzden \"Miraç Kandili\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-regaib-kandili-mesajiwt",
+            "text": "Rektörümüzden “Regaib Kandili” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-sarikamis-sehitlerini-anma-gunu-mesaji",
+            "text": "Rektörümüzden “Sarıkamış Şehitlerini Anma Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-karamustafadan-24-kasim-ogretmenler-gunu-mesaji",
+            "text": "Rektörümüz Karamustafa'dan \"24 Kasım Öğretmenler Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-10-kasim-ataturku-anma-gunu-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa'dan \"10 Kasım Atatürk'ü Anma Günü\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-29-ekim-cumhuriyet-bayrami-mesajipe",
+            "text": "Rektörümüzden “29 Ekim Cumhuriyet Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/kahraman-ecdadimizla-ne-kadar-ovunsek-ve-gurur-duysak-azdir",
+            "text": "''Kahraman Ecdadımızla Ne Kadar Övünsek ve Gurur Duysak Azdır”"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafadan-kurban-bayrami-mesaji",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa'dan “Kurban Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-19-mayis-ataturku-anma-genclik-ve-spor-bayrami-mesajidq",
+            "text": "Rektörümüzden “19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-mesajiwq",
+            "text": "Rektörümüzden \"23 Nisan Ulusal Egemenlik ve Çocuk Bayramı\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-turizm-haftasi-mesajicy",
+            "text": "Rektörümüzden \"Turizm Haftası\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-ramazan-bayrami-mesajim5",
+            "text": "Rektörümüzden \"Ramazan Bayramı\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-kadir-gecesi-mesaji5a",
+            "text": "Rektörümüzden \"Kadir Gecesi\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-21-mart-nevruz-bayrami-mesaji78",
+            "text": "Rektörümüzden \"21 Mart Nevruz Bayramı\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-canakkale-zaferinin-109-yildonumu-mesaji",
+            "text": "Rektörümüzden \"Çanakkale Zaferi'nin 109. Yıldönümü\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-istiklal-marsinin-kabulunun-103-yildonumu-mesaji",
+            "text": "Rektörümüzden İstiklal Marşı’nın Kabulünün 103. Yıldönümü Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-mirac-kandili-mesaji8f",
+            "text": "Rektörümüzden “Miraç Kandili” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-sarikamis-sehitlerini-anma-mesaji",
+            "text": "Rektörümüzden “Sarıkamış Şehitlerini” Anma Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-24-kasim-ogretmenler-gunu-mesaji",
+            "text": "Rektörümüzden “24 Kasım Öğretmenler Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-10-kasim-ataturku-anma-gunu-mesajiah",
+            "text": "Rektörümüzden \"10 Kasım Atatürk'ü Anma Günü\" Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzun-29-ekim-cumhuriyet-bayrami-mesaji",
+            "text": "Rektörümüzün “29 Ekim Cumhuriyet Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-30-agustos-zafer-bayrami-mesaji8k",
+            "text": "Rektörümüzden “30 Ağustos Zafer Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/erciyes-as-yonetim-kurulu-baskani-elcuman-rektorumuzu-ziyaret-etti",
+            "text": "Erciyes A.Ş. Yönetim Kurulu Başkanı Elcuman, Rektörümüzü Ziyaret Etti"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-15-temmuz-demokrasi-ve-milli-birlik-gunu-mesajinv",
+            "text": "Rektörümüzden “15 Temmuz Demokrasi ve Milli Birlik Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-kurban-bayrami-mesajit9",
+            "text": "Rektörümüzden Kurban Bayramı Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-19-mayis-genclik-ve-spor-bayrami-mesaji",
+            "text": "Rektörümüzden “19 Mayıs Gençlik ve Spor Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-23-nisan-ulusal-egemenlik-ve-cocuk-bayrami-mesajizh",
+            "text": "Rektörümüzden ‘23 Nisan Ulusal Egemenlik ve Çocuk Bayramı’ Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-ramazan-bayrami-mesajicp",
+            "text": "Rektörümüzden “Ramazan Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-kadir-gecesi-mesajioq",
+            "text": "Rektörümüzden “Kadir Gecesi” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-karamustafadan-turizm-haftasi-mesajiqt",
+            "text": "Rektörümüz Karamustafa’dan Turizm Haftası Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-ramazan-ayi-mesajigt",
+            "text": "Rektörümüzden Ramazan Ayı Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-karamustafadan-21-mart-nevruz-bayrami-mesaji",
+            "text": "Rektörümüz Karamustafa’dan “21 Mart Nevruz Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-18-mart-canakkale-zaferi-ve-sehitleri-anma-gunu-mesaji",
+            "text": "Rektörümüzden “18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-istiklal-marsinin-kabulunun-102-yildonumu-mesaji",
+            "text": "Rektörümüzden, İstiklal Marşı'nın Kabulünün 102. Yıldönümü Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-regaip-kandili-mesaji",
+            "text": "Rektörümüzden “Regaip Kandili” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-10-ocak-calisan-gazeteciler-gunu-mesajipb",
+            "text": "Rektörümüzden “10 Ocak Çalışan Gazeteciler Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-kitap-okuma-etkinliginde-ogrencilerle-bir-araya-geldi",
+            "text": "Rektörümüz, Kitap Okuma Etkinliğinde Öğrencilerle Bir Araya Geldi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-karamustafa-kuzey-makedonyada-isbirligi-ziyaretlerinde-bulundulr",
+            "text": "Rektörümüz Karamustafa, Kuzey Makedonya’da İşbirliği Ziyaretlerinde Bulundu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-10-kasim-ataturku-anma-gunu-mesaji6u",
+            "text": "Rektörümüzden “10 Kasım Atatürk’ü Anma Günü” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorlukten-haberler",
+            "text": "Rektörümüzden “Cumhuriyet Bayramı” Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuzden-3-ekim-turk-dunyasi-gunu-kutlama-mesaji",
+            "text": "Rektörümüzden “3 Ekim Türk Dünyası Günü” Kutlama Mesajı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-ahi-evran-universitesine-kurumsal-akreditasyon-belgesi-takdim-torenine-katildi",
+            "text": "Rektörümüz, Ahi Evran Üniversitesi’ne Kurumsal Akreditasyon Belgesi Takdim Törenine Katıldı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-muhendislik-mimarlik-ve-tasarim-fakultemizin-basarili-akademisyenlerini-kabul-etti",
+            "text": "Rektörümüz, Mühendislik Mimarlık ve Tasarım Fakültemizin Başarılı Akademisyenlerini Kabul Etti"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/rektorumuz-prof-dr-kurtulus-karamustafa-rektorluk-mazbatasini-aldi",
+            "text": "Rektörümüz Prof. Dr. Kurtuluş Karamustafa, “Rektörlük Mazbatasını” Aldı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/g/tum-guncel",
+            "text": "Tümünü Listele"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/kayu-ile-il-milli-egitim-mudurlugu-arasinda-is-birligi-protokolu-imzalandi",
+            "text": "06 Ocak KAYÜ ile İl Milli Eğitim Müdürlüğü Arasında İş Birliği Protokolü İmzalandı [Img Alt: KAYÜ ile İl Milli Eğitim Müdürlüğü Arasında İş Birliği Protokolü İmzalandı]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/kayseri-universitesinde-girisimcilik-ve-girisimcilik-destekleri-anlatildi",
+            "text": "24 Aralık Kayseri Üniversitesi’nde “Girişimcilik ve Girişimcilik Destekleri” Anlatıldı [Img Alt: Kayseri Üniversitesi’nde “Girişimcilik ve Girişimcilik Destekleri” Anlatıldı]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/bir-sohbet-bir-ilham-bir-adim-ileri",
+            "text": "27.12.2025 15:30:00 Bir Sohbet, Bir İlham, Bir Adım İleri [Img Alt: Bir Sohbet, Bir İlham, Bir Adım İleri]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/rektor-ogrenci-kutuphane-bulusmalari",
+            "text": "27.12.2025 10:30:00 Rektör-Öğrenci Kütüphane Buluşmaları [Img Alt: Rektör-Öğrenci Kütüphane Buluşmaları]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/neden-mesleki-egitim-kayseri-universitesinin-vizyonu",
+            "text": "9.12.2025 11:00:00 \"Neden Mesleki Eğitim? Kayseri Üniversitesi'nin Vizyonu\""
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/isaret-dili-ve-duygusal-siddet",
+            "text": "3.12.2025 14:00:00 İşaret Dili ve Duygusal Şiddet [Img Alt: İşaret Dili ve Duygusal Şiddet]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/turkiye-yuzyili-ve-universitelerimiz",
+            "text": "10.12.2025 14:00:00 Türkiye Yüzyılı ve Üniversitelerimiz [Img Alt: Türkiye Yüzyılı ve Üniversitelerimiz]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/universiteler-arasi-basketbol-turkiye-sampiyonasi",
+            "text": "1.12.2025 10:00:00 Üniversiteler Arası Basketbol Türkiye Şampiyonası [Img Alt: Üniversiteler Arası Basketbol Türkiye Şampiyonası]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/rektorumuz-kykda-ogrencilerle-bulusuyor",
+            "text": "27.11.2025 18:00:00 Rektörümüz KYK'da Öğrencilerle Buluşuyor [Img Alt: Rektörümüz KYK'da Öğrencilerle Buluşuyor]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/uluslararasi-ogrencilerimizle-doga-gezisi",
+            "text": "9.11.2025 09:45:00 Uluslararası Öğrencilerimizle Doğa Gezisi [Img Alt: Uluslararası Öğrencilerimizle Doğa Gezisi]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/guven-toplumun-insasi-siddetin-anatomisi-ve-cozum-yollari-egitimi",
+            "text": "6.11.2025 10:30:00 Güven Toplumunun İnşası Şiddetin Anatomisi ve Çözüm Yolları Eğitimi [Img Alt: Güven Toplumunun İnşası Şiddetin Anatomisi ve Çözüm Yolları Eğitimi]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/etkinlik-detay/yapay-zekanin-yukselisi-insan-emeginden-dijital-zeka-cagina",
+            "text": "30.10.2025 14:00:00 Yapay Zekanın Yükselişi; İnsan Emeğinden Dijital Zeka Çağına [Img Alt: Yapay Zekanın Yükselişi; İnsan Emeğinden Dijital Zeka Çağına]"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/e/etkinlik/tum-etkinlikler",
+            "text": "Tümünü Listele"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/duyuruhu",
+            "text": "07 Ocak DUYURU"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/ogretim-uyesi-ilani-son-basvuru-tarihi-14012026",
+            "text": "31 Aralık Öğretim Üyesi İlanı Son Başvuru Tarihi 14.01.2026"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/ogretim-uyesi-disindaki-ogretim-elemani-alim-ilani-son-basvuru-tarihi-14012026",
+            "text": "31 Aralık Öğretim Üyesi Dışındaki Öğretim Elemanı Alım İlanı Son Başvuru Tarihi 14.01.2026"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/docentlik-sozlu-sinav-duyurusu_5t",
+            "text": "24 Aralık Doçentlik Sözlü Sınav Duyurusu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/15122025-tarihli-sozlesmeli-personel-4b-alim-ilani-son-basvuru-tarihi-29122025-mesai-bitimi",
+            "text": "15 Aralık 15.12.2025 Tarihli Sözleşmeli Personel (4/B) Alım İlanı (Son Başvuru Tarihi 29.12.2025 Mesai Bitimi)"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/iskur-genclik-programi-yedek-listeleri-merkez-kampus-develi-seyrani-kampusu-osb-myo-bunyan-myo-yesilhisar-myo",
+            "text": "11 Aralık İşkur Gençlik Programı Yedek Listeleri \"Merkez Kampüs, Develi Seyrani Kampüsü, Osb Myo, Bünyan Myo, Yeşilhisar Myo\""
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/docentlik-sozlu-sinav-duyurusu_6a",
+            "text": "09 Aralık Doçentlik Sözlü Sınav Duyurusu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/docentlik-sozlu-sinav-duyurusu_a6",
+            "text": "26 Kasım Doçentlik Sözlü Sınav Duyurusu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/docentlik-sozlu-sinav-duyurusu_hf",
+            "text": "26 Kasım Doçentlik Sözlü Sınav Duyurusu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/iskur-genclik-programi-yedek-listeleri-merkez-kampus-develi-seyrani-kampusu-organize-sanayi-myo",
+            "text": "24 Kasım İşkur Gençlik Programı Yedek Listeleri \"Merkez Kampüs, Develi Seyrani Kampüsü, Organize Sanayi Bölgesi Meslek Yüksekokulu\""
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/iskur-genclik-programi-yedek-listeleri",
+            "text": "20 Kasım İŞKUR Gençlik Programi Yedek Listeleri"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/docentlik-sozlu-sinav-duyurusupo",
+            "text": "19 Kasım Doçentlik Sözlü Sınav Duyurusu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/ek-ilan-2024-proje-yili-startup-yuksekogretim-hareketlilik-konsorsiyumu-2024-1-tr01-ka131-hed-000235865-erasmus-ogrenci-staj-hareketliligi-basvurulari-baslamistir",
+            "text": "12 Kasım (Ek İlan) 2024 Proje Yılı Startup Yükseköğretim Hareketlilik Konsorsiyumu (2024-1-TR01-KA131-HED-000235865) Erasmus+ Öğrenci Staj Hareketliliği Başvuruları Başlamıştır"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/universitemiz-kurumsal-iletisim-koordinatorlugu-tarafindan-hazirlanan-kayu-bultenin-ekim-sayisi-cikti",
+            "text": "04 Kasım Üniversitemiz Kurumsal İletişim Koordinatörlüğü tarafından hazırlanan KAYÜ Bülten'in Ekim Sayısı Çıktı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/iskur-genclik-programi-kura-cekimi-sonuclari02",
+            "text": "04 Kasım İŞKUR Gençlik Programı Kura Çekimi Sonuçları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/docentlik-sozlu-sinav-duyurusuql",
+            "text": "31 Ekim Doçentlik Sözlü Sınav Duyurusu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/iskur-genclik-programi-kura-cekiminx",
+            "text": "31 Ekim İŞKUR Gençlik Programı Kura Çekimi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/iskur-genclik-programi-basvurulari-basladi",
+            "text": "14 Ekim İŞKUR Gençlik Programı Başvuruları Başladı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/universitemiz-kurumsal-iletisim-koordinatorlugu-tarafindan-hazirlanan-kayu-bultenin-eylul-sayisi-cikti",
+            "text": "03 Ekim Üniversitemiz Kurumsal İletişim Koordinatörlüğü tarafından hazırlanan KAYÜ Bülten'in Eylül Sayısı Çıktı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/detay/duyuru/docentlik-sozlu-sinav-duyurusuzb",
+            "text": "29 Eylül Doçentlik Sözlü Sınav Duyurusu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/d/duyuru/tum-duyurular",
+            "text": "Tüm Duyurular"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/ogretim-uyemize-tubitaktan-proje-destegi",
+            "text": "Öğretim Üyemize TÜBİTAK’tan Proje Desteği 13.06.2025 11:22:22 Kayseri Üniversitesi (KAYÜ) Siber Güvenlik Uygulama ve Araştırma Merkezi Müdürü Doç. Dr. Ali Gezer’in yürütücülüğünü üstlendiği “Yapay Zekâ Destekli Haritalama ile Yeni Nesil IoT Kontrolörler” başlıklı proje, 1507 - TÜBİTAK KOBİ Ar-Ge Başlangıç Destek Programı kapsamında destek almaya hak kazandı. Doç. Dr. Gezer’in çalışması, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) tarafından yürütülen Teknoloji ve Yenilik Destek Programları çerçevesinde yapılan bilimsel ve teknik değerlendirmeler sonucunda başarılı bulunarak desteklenmeye değer görüldü. TÜBİTAK destekli proje, yapay zekâ teknolojilerinin Nesnelerin İnterneti (IoT) uygulamalarına entegrasyonu ile haritalama ve kontrol süreçlerinde yeni nesil çözümler sunmayı amaçlıyor. Bu kapsamda, hem endüstriyel otomasyon alanında verimliliğin artırılması hem de akıllı sistemlerin gelişimine katkı sağlanması hedefleniyor. Doç. Dr. Ali Gezer’i tebrik eder, çalışmalarında başarılarının devamını dileriz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/universitemiz-ogretim-uyelerinin-patent-basarisiha",
+            "text": "Öğretim Üyelerimizin Patent Başarısı 26.03.2025 14:32:22 Kayseri Üniversitesi (KAYÜ) öğretim üyeleri Doç. Dr. Zekiye Kocakaya ve Doç. Dr. Elif Korkusuz, geliştirdikleri çevre dostu yenilikçi bir projeyle önemli bir başarıya imza attı. İki akademisyenin “Yüksek Hassasiyetli DNA Görüntüleme Sistemleri İçin Toksik Olmayan ve Çevre Dostu Alternatif Boya” başlıklı buluşu, Türk Patent ve Marka Kurumu tarafından patentle tescillendi. Çalışmalarıyla hem bilim dünyasına katkı sağlayan hem de çevreye duyarlı çözümler sunan öğretim üyeleri, biyoteknoloji ve moleküler biyoloji alanındaki gelişmelere öncülük etmeyi hedefliyor. Söz konusu boya, toksik içermemesi sayesinde laboratuvar güvenliğini artırırken, çevreye olan etkileri de azaltıyor. KAYÜ öğretim üyelerinin geliştirdikleri buluş; bitkisel, sağlık açısından zararsız, güvenli, ucuz, çevreyi kirletmeyecek kolay üretilebilen ve nükleik asit boyamada kullanılabilecek, floresan özellik gösteren bir bitki olan P. harmala tohumlarından elde edilen özütün nükleik asit boyası olarak kullanılabileceği yeni bir boya alternatifi olma özelliğini taşıyor. Öğretim üyelerimizin başarısını kutluyor, başarılarının devamını diliyoruz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/uluslararasi-proje-basarisi",
+            "text": "Uluslararası Proje Başarısı 26.03.2025 14:31:36 Kayseri Üniversitesi (KAYÜ) Safiye Çıkrıkçıoğlu Meslek Yüksekokulu öğretim üyelerinden Doç. Dr. Uğur Azizoğlu, uluslararası düzeyde yürütülen bir araştırma projesine dış danışman-uzman olarak katkı sağlayarak önemli bir başarıya imza attı. “Sinomonas halotolerans isolated from Parkinsonia aculeata L. Sp. Pl. rhizosphere in the Sonoran Desert, Mexico” başlıklı araştırma projesi, Meksika Teknoloji Enstitüsü tarafından desteklenmeye uygun bulundu. Proje, Meksika Ulusal Teknoloji Enstitüsü / Yaqui Vadisi Teknoloji Enstitüsü (Bacum, Sonora, Meksika) tarafından yürütülüyor. Projenin yürütücülüğünü Prof. Dr. Leandris Argentel-Martínez üstlenirken, araştırmacı ekibinde Dr. Ofelda Peñuelas-Rubio ve Dr. Angélica Herrera-Sepúlveda yer alıyor. Türkiye’den ise Doç. Dr. Uğur Azizoğlu, projeye dış danışman ve uzman olarak katkı sunuyor. Doç. Dr. Uğur Azizoğlu’nu tebrik eder, başarılı çalışmalarının devamını dileriz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/develi-huseyin-sahin-myo-ogretim-uyemizin-tubitak-basarisi",
+            "text": "Öğretim Üyemize TÜBİTAK'tan Proje Desteği 25.09.2024 10:39:59 Kayseri Üniversitesi (KAYÜ) Develi Hüseyin Şahin Meslek Yüksekokulu öğretim üyelerinden Doç. Dr. Handan Şapcı Selamoğlu, yürütücülüğünü üstlendiği projesiyle TÜBİTAK’tan önemli bir destek almaya hak kazandı. “Cyperus Cinsine Ait Bazı Türlerden Elde Edilen Özütlerin Senoterapötik Potansiyellerinin Belirlenmesi” başlıklı proje, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) tarafından yürütülen 3501 Kariyer Geliştirme Programı kapsamında desteklenmeye uygun bulundu. Proje, yaşlanmaya bağlı hastalıkların önlenmesi ve tedavisine yönelik senoterapötik (yaşlanma karşıtı tedavi) yaklaşımlara bilimsel katkı sağlamayı hedefliyor. Bitkisel özütlerin biyolojik etkilerinin araştırıldığı bu çalışma, hem sağlık bilimleri yenilikçi bir yaklaşım sunmayı hedefliyor. Doç. Dr. Handan Şapcı Selamoğlu’nu bu önemli başarısından dolayı tebrik eder, akademik çalışmalarının artarak devam etmesini dileriz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/safiye-cikrikcioglu-myo-ogretim-uyemizin-akademik-basarisizy",
+            "text": "Öğretim Üyemizin Akademik Başarısı 15.05.2024 15:04:51 Kayseri Üniversitesi (KAYÜ) Safiye Çıkrıkçıoğlu Meslek Yüksekokulu öğretim üyelerinden Doç. Dr. Uğur Azizoğlu, araştırmacı olarak yer aldığı uluslararası projeyle önemli bir bilimsel başarıya imza attı. “Applications of the microbiome and the metabolome of Parkinsonia aculeata L. for the mitigation of biotic and abiotic stresses in the semi-desert and in species of agricultural interest in Mexico” başlıklı proje, Meksika Ulusal Teknoloji Enstitüsü (National Technological Institute of Mexico) tarafından desteklenmeye değer bulundu. Proje, yarı çöl koşullarında ve tarımsal açıdan önemli bitki türlerinde karşılaşılan biyotik ve abiyotik streslerin azaltılmasında, Parkinsonia aculeata L. bitkisinin mikrobiyom ve metabolom yapısının potansiyel kullanımını araştırmayı amaçlıyor. Doç. Dr. Uğur Azizoğlu’nu uluslararası bilimsel katkısından dolayı tebrik eder, başarılarının devamını dileriz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/safiye-cikrikcioglu-myo-ogretim-uyemizin-akademik-basarisi",
+            "text": "Öğretim Üyemize Uluslararası Proje Desteği 15.05.2024 15:04:15 Kayseri Üniversitesi (KAYÜ) Safiye Çıkrıkçıoğlu Meslek Yüksekokulu öğretim üyesi Doç. Dr. Uğur Azizoğlu’nun araştırmacı olarak yer aldığı bilimsel proje Meksika Ulusal Teknoloji Enstitüsü (National Technological Institute of Mexico) tarafından desteklenmeye hak kazandı. “Native rhizobacteria and plant extracts as sustainable alternatives for the biocontrol of Fusarium associated with maize cultivation” başlıklı araştırma projesi kapsamında, mısır yetiştiriciliğinde Fusarium hastalığının biyolojik kontrolü için yerli rizobakteriler ve bitki özlerinin sürdürülebilir alternatifler olarak kullanımı üzerine araştırma ve gözlemler gerçekleştirilecek. Öğretim üyemizi tebrik eder, çalışmalarının devamında başarılar dileriz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/universitemiz-dr-ogr-uyesi-banu-ulunun-proje-basarisi",
+            "text": "Öğretim Üyemize TÜBİTAK'tan Proje Desteği 22.02.2024 22:20:19 Kayseri Üniversitesi (KAYÜ) Mühendislik, Mimarlık ve Tasarım Fakültesi öğretim üyelerinden Dr. Öğr. Üyesi Banu Ulu, araştırmacı olarak görev aldığı projeyle TÜBİTAK’tan destek almaya hak kazandı. “Derin Öğrenme Tabanlı Otonom Bölgesel Pülverizasyon Sistemi Tasarımı” başlıklı proje, TÜBİTAK ARDEB 1001 - Bilimsel ve Teknolojik Araştırma Projelerini Destekleme Programı kapsamında desteklenmeye uygun bulundu. Proje, yapay zekâ ve tarım teknolojilerini bir araya getirerek bitki koruma uygulamalarında verimliliği artırmayı hedefliyor. Tarımda kaynak kullanımını optimize etmeye ve çevresel etkileri azaltmaya yönelik geliştirilen bu sistem sayesinde, yalnızca ihtiyaç duyulan alanlara hassas ilaçlama yapılması mümkün olacak. Proje, sürdürülebilir tarıma katkı sunmayı amaçlıyor. Dr. Öğr. Üyesi Banu Ulu’yu bu önemli başarısından dolayı tebrik eder, bilimsel çalışmalarında başarılarının devamını dileriz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/safiye-cikrikcioglu-myo-dr-ogr-uyesi-nihat-yilmazin-tubitak-basarisi",
+            "text": "Öğretim Üyemize TÜBİTAK'tan Proje Desteği 19.09.2023 12:04:37 Kayseri Üniversitesi (KAYÜ) Safiye Çıkrıkçıoğlu Meslek Yüksekokulu öğretim üyelerinden, Ata Tohumu Uygulama ve Araştırma Merkezi Müdürü Dr. Öğr. Üyesi Nihat Yılmaz, araştırmacı olarak görev aldığı projeyle TÜBİTAK’tan destek almaya hak kazandı. “Türkiye Tarımsal Üretiminde Küresel İklim Değişikliğine Uyumlu Sürdürülebilir Tarım Teknolojileri Platformu (S-Atp)” başlıklı proje, TÜBİTAK 1004 Bilimsel ve Teknolojik Araştırma Projelerini Destekleme Programı kapsamında desteklenmeye değer bulundu. Proje, Türkiye'nin tarım sektöründe küresel iklim değişikliğine karşı sürdürülebilir çözümler geliştirmeyi amaçlıyor. Proje, tarım üretiminin iklim değişikliğine uyum sağlamasını sağlamak için inovatif teknolojilerin ve yöntemlerin araştırılması ve uygulanması hedefleniyor. Bu kapsamda proje, çevre dostu tarım uygulamaları ve verimlilik artırıcı stratejiler üzerinde yoğunlaşacak. Dr. Öğr. Üyesi Nihat Yılmaz’ı bu başarılı projeden dolayı tebrik eder, akademik çalışmalarında başarılarının devamını dileriz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/doc-dr-bahatdin-dasbasina-tubitaktan-proje-destegi",
+            "text": "Öğretim Üyemize TÜBİTAK'tan Proje Desteği 2.08.2023 11:19:27 Kayseri Üniversitesi (KAYÜ) Mühendislik, Mimarlık ve Tasarım Fakültesi Mühendislik Temel Bilimleri Bölümü Öğretim Üyesi Doç. Dr. Bahatdin Daşbaşı'nın, Araştırma Destek Programları Başkanlığı (ARDEB) tarafından yürütülen \"1002-A Hızlı Destek Modülü\" kapsamında TÜBİTAK'a sunduğu proje, desteklenmek üzere kabul edildi. “Bireylerin Afet Sonrası Göç Durumlarının Matematiksel Analizi: Şubat 2023 Kahramanmaraş Depremleri Sonrası Elbistan'ın Nüfus Projeksiyonu Üzerine Bir İnceleme” başlıklı proje, afet sonrası göç hareketlerinin matematiksel modellemelerini içeriyor. TÜBİTAK destekli proje, 2023 Kahramanmaraş depremlerinin ardından Elbistan’da gerçekleşen göçlerin nüfus projeksiyonları üzerindeki etkilerini ele alacak ve afet sonrası sürecin analiz edilmesi için önemli bir veri seti sunacak. Doç. Dr. Bahatdin Daşbaşı’yı tebrik ediyor, başarılarının devamını diliyoruz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/haber/detay/doc-dr-ugur-azizoglunun-tubitak-1001-proje-basarisi",
+            "text": "Öğretim Üyemize TÜBİTAK'tan Proje Desteği 31.07.2023 17:14:49 Kayseri Üniversitesi (KAYÜ) Safiye Çıkrıkçıoğlu Meslek Yüksekokulu öğretim üyesi Doç. Dr. Uğur Azizoğlu’nun yürütücülüğünü üstlendiği ve çok sayıda akademisyenin araştırmacı olarak yer aldığı bilimsel proje, TÜBİTAK 1001 Programı kapsamında desteklenmeye hak kazandı. “Bitki Büyümesini Teşvik Edici Gen Taşıyan Bacillus Thuringiensis Suşlarının Belirlenmesi ve Mikrobiyal Gübre Adayı Olarak Kullanılabilirliğinin Araştırılması” başlıklı proje, tarımda sürdürülebilirlik ve verimliliği artırmayı hedefleyen önemli bir çalışma olarak öne çıkıyor. Proje ekibinde, Dr. Öğr. Üyesi Nihat Yılmaz (Kayseri Üniversitesi), Doç. Dr. Osman İbiş ve Doç. Dr. Adem Güneş (Erciyes Üniversitesi), Doç. Dr. Harun Bektaş (Siirt Üniversitesi) ve Prof. Dr. Salih Karabörklü (Sakarya Uygulamalı Bilimler Üniversitesi) gibi akademik isimler yer alıyor. Doç. Dr. Uğur Azizoğlu ve proje ekibini bu önemli başarıları için tebrik ediyor, çalışmalarında başarılarının devamını diliyoruz."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/a/tum-akademik",
+            "text": "Tüm Akademik Başarılar"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/sosyal-yasam/kapuzbasi-selaleleri_74",
+            "text": "Detaylar için tıklayın..."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/sosyal-yasam/kayseri-universitesi-fotograf-galerisi",
+            "text": "Detaylar için tıklayın..."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/sosyal-yasam/erciyes-kayak-merkezi_6e",
+            "text": "Detaylar için tıklayın..."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/sosyal-yasam/erciyes-dagief_kd",
+            "text": "Detaylar için tıklayın..."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/sosyal-yasam/kayseri-kalesiqa",
+            "text": "Detaylar için tıklayın..."
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/sosyal-yasam/aladaglar",
+            "text": "Detaylar için tıklayın..."
+        },
+        {
+            "url": "https://www.kayseriulasim.com/",
+            "text": "KAYSERİ’DE ULAŞIM"
+        },
+        {
+            "url": "https://www.sporaskayseri.com.tr/",
+            "text": "KAYSERİ’DE SPOR"
+        },
+        {
+            "url": "https://www.kayseri.bel.tr/kesfedin",
+            "text": "Kayseritanıtımı"
+        },
+        {
+            "url": "https://avesis.kayseri.edu.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://katalog.kayseri.edu.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://yokak.gov.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://www.cimer.gov.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://sksd.kayseri.edu.tr/tr/i/12-2/universitemiz-indirim-anlasmasi-yapilan-firmalar",
+            "text": "No Text"
+        },
+        {
+            "url": "https://radyo.kayseri.edu.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://ebys.kayseri.edu.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://kurumsaliletisim.kayseri.edu.tr/tr/i/13-2/e-dergi",
+            "text": "No Text"
+        },
+        {
+            "url": "https://kurumsaliletisim.kayseri.edu.tr/tr/i/11-2/bultenler",
+            "text": "No Text"
+        },
+        {
+            "url": "http://www.studyinturkey.gov.tr/UniversityTurkey/Detail?uId=339993",
+            "text": "No Text"
+        },
+        {
+            "url": "https://webmail.kayseri.edu.tr/",
+            "text": "Web Mail"
+        },
+        {
+            "url": "https://www.turkiye.gov.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "http://www.yok.gov.tr/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://www.kayserikariyer.com/",
+            "text": "No Text"
+        },
+        {
+            "url": "https://www.yok.gov.tr/tr/page/mevzuat-aYrMB",
+            "text": "Yükseköğretim Mevzuatı"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/mevzuat/kayseri-universitesi-yonetmelikler",
+            "text": "Yönetmelikler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/mevzuat/kayseri-universitesi-yonergeler",
+            "text": "Yönergeler"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/mevzuat/kayseri-universitesi-protokoller",
+            "text": "Protokoller"
+        },
+        {
+            "url": "https://kutuphane.kayseri.edu.tr/",
+            "text": "Kütüphane"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-ulasim",
+            "text": "Ulaşım"
+        },
+        {
+            "url": "https://www.kayseri.edu.tr/tr/sosyal-yasam/kayseri-universitesi-fotograf-galerisi",
+            "text": "Fotoğraf Galeri"
+        },
+        {
+            "url": "https://www.youtube.com/@kayseriedu/videos",
+            "text": "Video Galeri"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/ogrenci/kayseri-universitesi-ogrenci-platformlari",
+            "text": "Öğrenci Platformları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-tanitim-filmi",
+            "text": "Tanıtım Filmi"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/sosyal-medya-hesaplari",
+            "text": "Sosyal Medya Hesapları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayu-marka-tescil-belgeleri",
+            "text": "Marka Tescil Belgeleri"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-logo",
+            "text": "Üniversite Logosu"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-akademik-personel-sayilari",
+            "text": "Akademik Personel Sayıları"
+        },
+        {
+            "url": "http://www.kayseri.edu.tr/tr/kayseri-universitesi-ogrenci-sayilari",
+            "text": "Öğrenci Sayıları"
+        },
+        {
+            "url": "https://kvkk.kayseri.edu.tr/",
+            "text": "KVKK"
+        },
+        {
+            "url": "https://bidb.kayseri.edu.tr/tr/galeri-detay/2/isoiec-27001-sertifika-belgeleri",
+            "text": "ISO 27001 Sertifikası"
+        },
+        {
+            "url": "https://yesilkampus.kayseri.edu.tr/tr/haber-detay/33/iso-50001-enerji-yonetim-sistemi-sertifikasi",
+            "text": "ISO 50001 Sertifikası"
+        },
+        {
+            "url": "https://kvkk.kayseri.edu.tr/tr/i/28-1/cerez-politikasi",
+            "text": "Çerez politikamız hakkında detaylı bilgi almak için tıklayın."
+        },
+        {
+            "url": "https://kvkk.kayseri.edu.tr/tr/i/3-1/aydinlatma-metinleri",
+            "text": "Kişisel Verileri Koruma Kanunu (KVKK)"
+        }
+    ]
+}
