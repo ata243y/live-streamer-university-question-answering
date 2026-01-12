@@ -62,9 +62,48 @@ class AvatarController:
             safe_a = answer.replace('"', '\\"').replace('\n', ' ')
             self.driver.execute_script(f'window.addQA("{safe_q}", "{safe_a}")')
             
+            # 3. Ses bitene kadar bekle (Blocking)
+            self.wait_for_audio_finish()
+            
         except Exception as e:
             logger.error(f"Avatar kontrol hatası: {e}")
             # Bağlantı koptuysa tekrar denenebilir ama şimdilik logla yetinelim
+
+    def wait_for_audio_finish(self):
+        """
+        Avatarın konuşması bitene kadar bloklar.
+        """
+        if not self.driver:
+            return
+
+        try:
+            # Polling loop
+            while True:
+                is_playing = self.driver.execute_script("return window.isAvatarPlaying ? window.isAvatarPlaying() : false")
+                if not is_playing:
+                    break
+                time.sleep(0.5)
+        except Exception as e:
+            logger.warning(f"Audio wait polling error: {e}")
+            
+    def add_qa_text(self, question: str, answer: str):
+        """
+        Sadece chat balonunu ekler, ses oynatmaz.
+        """
+        if not self.driver:
+            logger.warning("Avatar driver inactive, ADD_QA_TEXT skipped.")
+            return
+
+        try:
+            logger.info("Avatar chat (sadece metin) güncelleniyor...")
+            safe_q = question.replace('"', '\\"').replace('\n', ' ')
+            safe_a = answer.replace('"', '\\"').replace('\n', ' ')
+            self.driver.execute_script(f'window.addQA("{safe_q}", "{safe_a}")')
+            
+            # Give users time to read text-only responses (since no audio blocks)
+            time.sleep(3)
+        except Exception as e:
+            logger.error(f"Avatar metin ekleme hatası: {e}")
 
     def close(self):
         if self.driver:

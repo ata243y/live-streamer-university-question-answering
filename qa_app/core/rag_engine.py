@@ -69,6 +69,50 @@ class RAGEngine:
             print(f"HATA: Embedding dosyası bulunamadı! Lütfen önce 'scripts/ingest.py' script'ini çalıştırın.")
             raise
 
+    def add_knowledge(self, text: str, source: str):
+        """
+        Dynamically adds new knowledge to the vector database (memory + disk).
+        """
+        try:
+            print(f"Adding new knowledge from source: {source}")
+            
+            # 1. Compute embedding
+            with torch.no_grad():
+                new_embedding = self.embedding_model.encode(
+                    text,
+                    convert_to_tensor=True,
+                    device=self.device,
+                    show_progress_bar=False
+                )
+            
+            # 2. Update In-Memory Data
+            self.text_chunks.append(text)
+            self.sources.append(source)
+            self.embeddings = torch.cat((self.embeddings, new_embedding.unsqueeze(0)), dim=0)
+            
+            # 3. Update Disk (Parquet)
+            # Load existing DF to append safely
+            try:
+                df = pd.read_parquet(settings.PROCESSED_DATA_PATH)
+                new_row = pd.DataFrame([{
+                    "text_chunk": text,
+                    "source_document": source,
+                    "embedding": new_embedding.cpu().numpy()
+                }])
+                df = pd.concat([df, new_row], ignore_index=True)
+                df.to_parquet(settings.PROCESSED_DATA_PATH)
+                print("Knowledge successfully saved to Parquet.")
+                
+                # 4. Invalidate Cache
+                # This ensures the next query (likely the same one) doesn't hit the stale cache
+                self.clear_cache()
+                
+            except Exception as e:
+                print(f"Error saving to parquet: {e}")
+
+        except Exception as e:
+            print(f"Error adding knowledge: {e}")
+
     # ==================== CACHE METHODS ====================
     def _get_cache_key(self, query: str, top_k: int) -> str:
         """Sorgu için unique cache key üretir"""
@@ -231,7 +275,7 @@ class RAGEngine:
         
         return text
 
-    def generate(self, query: str, context: list[dict]) -> str:
+    def generate(self, query: str, context: list[dict], is_web_search: bool = False) -> str:
         """Verilen sorgu ve zenginleştirilmiş bağlam (context) ile cevap üretir."""
         context_str = ""
         for item in context:
@@ -239,36 +283,49 @@ class RAGEngine:
 
         # --- DEBUG LOGGING ---
         print("\n" + "="*40)
-        print(f"🔍 RAG CONTEXT (Query: {query})")
+        mode = "WEB SEARCH" if is_web_search else "RAG"
+        print(f"🔍 {mode} CONTEXT (Query: {query})")
         print("="*40)
         print(context_str.strip())
         print("="*40 + "\n")
         # ---------------------
 
-        prompt = f"""
-Sen bir üniversite yönetmelik uzmanısın. Verilen metinlerden ilgili bilgileri ek olarak kullanarak öğrenciye yardımcı ol.
+        if is_web_search:
+            # --- WEB SEARCH PROMPT (ESNEK) ---
+            prompt = f"""
+Sen bir yardımcı asistansın. Web arama sonuçlarından elde edilen aşağıdaki Context bilgisini kullanarak soruya cevap ver.
 
-TEMEL KURALLAR:
-- Cevabı verirken sana verilen metindeki contexte göre cevaplamayı öncelikli yap (kendin yorum katma eğer context de varsa).
-- Cevabı DOĞRUDAN başlat - "Cevap:", "Yanıt:" gibi başlık KULLANMA
-- Tek paragraf, Türkçe, net ve kısa
-- Kesin sayıları/süreleri belirt (gün, hafta, AKTS vs.)
-
-YAPMAMASI GEREKENLER:
-× Bağlam dışı bilgi üretme
-× Kullanıcıya soru sorma  
-× Madde işaretleri/liste kullanma
-× "muhtemelen", "sanırım" gibi ifadeler kullanma
-
-
----
 Context:
 {context_str}
 
 Soru: {query}
 
-(Doğrudan cevap ver, başlık kullanma):
-        """
+KURALLAR:
+1. Webden gelen bilgiyi kullanarak kullanıcıya en iyi cevabı ver.
+2. Context içindeki bilgiyi sentezle ve özetle.
+3. "NO_CONTEXT" DEME. Elindeki bilgiyle yardımcı olmaya çalış.
+4. EĞER aranan bölüm/konu metinde yoksa ama "şu fakülte altında", "şu isimle geçiyor" gibi bir açıklama varsa, BU BİLGİYİ KULLANARAK CEVAP VER. (Örn: Matematik -> Mühendislik ve Doğa Bilimleri altındadır gibi).
+5. Tek paragraf, Türkçe, net ve anlaşılır özetle.
+6. Cevabı DOĞRUDAN başlat.
+            """
+        else:
+            # --- RAG PROMPT (GÜVENLİ/KATI) ---
+            prompt = f"""
+Sen bir üniversite yönetmelik uzmanısın. SADECE aşağıdaki Context bilgisini kullanarak soruya cevap ver.
+
+Context:
+{context_str}
+
+Soru: {query}
+
+ÖNEMLİ KURALLAR:
+1. SADECE Context içinde verilen bilgiyi kullan. Kendinden bilgi ekleme.
+2. Eğer Context içinde sorunun cevabı KESİN OLARAK yoksa, SADECE "NO_CONTEXT" yaz. Başka hiçbir şey yazma.
+3. Bağlam (Context) soruyla tamamen alakasızsa, "NO_CONTEXT" yaz.
+4. "Bu metinde bilgi yok" veya "Bilmiyorum" deme, sadece "NO_CONTEXT" çıktısı ver.
+5. Cevabı DOĞRUDAN başlat - "Cevap:", "Yanıt:" gibi başlık KULLANMA.
+6. Tek paragraf, Türkçe, net ve kısa cevap ver.
+            """
 
         payload = {
             "model": settings.LLM_MODEL,
@@ -350,13 +407,13 @@ Soru: {query}
 
     def answer_query(self, query: str) -> str:
         """Tüm RAG sürecini yönetir: retrieval ve generation."""
-        relevant_context = self.retrieve(query, top_k=12)
+        relevant_context = self.retrieve(query, top_k=3)
         answer = self.generate(query, relevant_context)
         return answer
     
     def answer_query_with_context(self, query: str) -> dict:
         """Değerlendirme için hem cevabı hem de kullanılan context'i döndürür."""
-        relevant_context_dicts = self.retrieve(query, top_k=12)
+        relevant_context_dicts = self.retrieve(query, top_k=3)
         context_texts = [item['text'] for item in relevant_context_dicts]
         answer = self.generate(query, relevant_context_dicts)
         

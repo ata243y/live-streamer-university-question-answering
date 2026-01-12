@@ -31,6 +31,7 @@ verify_chitchat.py
 verify_rag_context.py
 reproduce_retrieval.py
 inspect_data.py
+generate_fillers.py
 
 # Internal/Temp Documentation
 implementation-details.txt
@@ -42,4 +43,6 @@ test-evaluation-report.txt
 
 # Generated Media
 *.mp3
-talkingmodel/response_*.mp3
+!talkingmodel/filler_*.mp3
+
+

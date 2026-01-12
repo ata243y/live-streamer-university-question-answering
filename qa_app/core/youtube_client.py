@@ -36,15 +36,14 @@ class YouTubeClient:
                             author = c.author.name
                             logger.debug(f"Chat: {author}: {message}")
                             
-                            # Simple filter for questions
-                            if '?' in message:
-                                logger.info(f"Question detected from {author}: {message}")
-                                callback(author, message)
+                            # No filter - pass everything to main app for classification (Knowledge vs Chitchat)
+                            logger.info(f"Message from {author}: {message}")
+                            callback(author, message)
                                 
                     except Exception as e:
                         logger.error(f"Error in chat listener: {e}")
                     
-                    time.sleep(1) # Poll every second
+                    time.sleep(2) # Poll every 2 seconds (was 1)
                 
                 logger.info("Stopped listening to YouTube chat.")
 

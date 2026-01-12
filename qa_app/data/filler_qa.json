@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Yerleştirmede Puanım mı daha önemli, Sıralamam mı?",
+    "answer": "Yerleştirme sürecinde YKS tercih döneminde sıralama, konumunun diğer adaylara göre belirlenmesinde daha güvenilir ve önemli bir kriterdir, çünkü taban puanlar geçen yılın verilerine göre değişebilir. Ek yerleştirme döneminde ise güncel puanın esas alınır ve taban puanlara göre değerlendirirsin. Tercih yaparken hem puanı hem de sıralamayı dikkate almak, daha sağlıklı bir tercih süreci sağlar.",
+    "audio_file": "filler_1.mp3"
+  },
+  {
+    "question": "Sıralamam geçen yılın gerisinde, yine de bu bölüme girebilir miyim?",
+    "answer": "Sıralaman geçen yılın gerisinde olmasına rağmen, hâlâ istediğin bölüme girme şansın olabilir. Bu, birkaç faktöre bağlı: Birincisi, tercih ettiğin bölümde kontenjan daralması veya boş kontenjanlar oluşmuş olabilir. Bu durumlarda, kontenjanların doldurulması için ek yerleştirme süreçleri devreye girebilir. İkinci olarak, kontenjan değişimleri ve kapanış sıralarını kontrol etmek önemlidir. Ayrıca, ek tercih veya ikinci yerleştirme fırsatlarını dikkatle takip ederek ve stratejik tercih yaparak şansını artırabilirsin. Tüm bu değişkenleri göz önünde bulundurmak planlamanı güçlendirecektir.",
+    "audio_file": "filler_2.mp3"
+  },
+  {
+    "question": "Tercih listemdeki sıralama, yerleşme şansımı etkiler mi?",
+    "answer": "Tercih listenizdeki sıralama, yerleşme şansınızı, özellikle iki adayın puanlarının eşit olduğu durumlarda etkileyebilir; bu gibi durumlarda önce OBP, eşitlik devam ederse tercih sırası dikkate alınır. Stratejik bir tercih sıralaması oluşturarak, yerleşme olasılığınızı artırmak için liste başına en çok istediğiniz bölümleri, ortasına sınırınıza yakın olanları ve sonuna garanti yerleşebileceğiniz programları yerleştirebilirsiniz. Böylece, eşitlik durumları dışında, doğru programı doğru sıraya koyarak yerleşme ihtimalinizi optimize edebilirsiniz.",
+    "audio_file": "filler_3.mp3"
+  },
+  {
+    "question": "Bir bölüme yerleşirsem ama kayıt yaptırmazsam seneye okul puanım (OBP) kesilir mi?",
+    "answer": "Eğer bir yükseköğretim programına yerleşirseniz ve kayıt yaptırmazsanız, bir sonraki yıl YKS'ye girdiğinizde Ortaöğretim Başarı Puanınız (OBP) kesilir ve katkı katsayısı yarı yarıya düşer; yani 0,12 yerine 0,06 olarak uygulanır. Ancak, bir programa yerleşemezseniz OBP'niz etkilenmez ve tam değeri ile hesaplanmaya devam eder.",
+    "audio_file": "filler_4.mp3"
+  },
+  {
+    "question": "Kayıt için üniversiteye gitmek zorunda mıyım, yoksa E-Devlet yeterli mi?",
+    "answer": "E-Devlet üzerinden e-kayıt yaparak üniversiteye kayıt işlemlerini genellikle tamamlayabilirsin, ancak bazı işlemler için üniversiteye şahsen gitmen gerekebilir. Özellikle e-kayıtı desteklemeyen üniversiteler veya ek belgeler isteyen programlar yüz yüze kayıt gerektirebilir. Ayrıca, hazırlık sınavları veya ders seçimleri gibi bazı işlemler de fiziksel varlık gerektirebilir. Bu nedenle, e-kayıt yaparak süreci başlatsan da üniversitenin özel kayıt kurallarını inceleyerek veya öğrenci işlerine danışarak kesinleştirmen faydalı olacaktır.",
+    "audio_file": "filler_5.mp3"
+  },
+  {
+    "question": "Ek Tercihleri kimler yapabilir, kazandığım halde gitmediysem ek tercih yapabilir miyim?",
+    "answer": "2025 YKS ek tercih yapabilme hakkına, merkezi yerleştirme sonucunda hiçbir yükseköğretim programına yerleşmemiş adaylar ve kontenjanı dolmayan ya da kayıt yaptırılmayan programlara başvurmak üzere puan şartlarını sağlayan adaylar sahiptir. Ancak, bir programa yerleşmiş olan ve kayıt yaptırmamış olsa dahi bu adaylar ek yerleştirme tercihinde bulunamazlar. Dolayısıyla, \"Kazandım ama gitmedim\" durumu, hukuken yerleştiğiniz anlamına geldiğinden, ek tercih yapma hakkınızı engeller.",
+    "audio_file": "filler_6.mp3"
+  }
+]

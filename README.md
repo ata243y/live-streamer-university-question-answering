@@ -50,35 +50,46 @@ What sets this project apart is its **3D Talking Head Integration**: the system 
 4.  **Configure environment variables:**
     *   Create a `.env` file (copy from example if available, or just create it).
     *   Add your `OPENAI_API_KEY=...` to `.env`.
+    *   Add your YouTube Live Video ID to `qa_app/config.py`:
+        ```python
+        YOUTUBE_VIDEO_ID = "YOUR_VIDEO_ID"
+        ```
 
 ---
 
-## 🚀 How to Run
+## 🎥 Streaming Setup Guide
 
-Running the system involves starting two separate components: the 3D Avatar Server and the Backend Application.
+Follow this text step-by-step to start a live stream session:
 
-### 1. Start the 3D Avatar Server
+### 1. Start Streaming
+Start your stream on YouTube via **OBS**. Once live, copy the **Video ID** from the YouTube URL.
 
-Open a terminal and navigate to the project directory. Run the HTTP server to serve the 3D model files:
+### 2. Configure Video ID
+Paste the Video ID into `qa_app/config.py`:
+```python
+YOUTUBE_VIDEO_ID = "3iDf6s..." # Your ID here
+```
 
+### 3. Start the Avatar Server
+Open a terminal and run the customized HTTP server for the 3D Avatar:
 ```bash
 cd talkingmodel
 python3 -m http.server 8000
 ```
 
-*(Keep this terminal running)*
-
-### 2. Start the Backend Application
-
-Open a **new** terminal window, activate the environment, and start the main application:
-
+### 4. Start the AI Backend
+Open a **new** terminal and run the main application:
 ```bash
-source venv/bin/activate
 python -m qa_app.main
 ```
+*This will auto-connect to the YouTube chat and begin processing.*
 
-- Information API will be available at: `http://localhost:5001`
-- Open the **Avatar Interface** in your browser: `http://localhost:8000`
+### 5. OBS Setup
+- In OBS, create a **Browser Source** or **Window Capture**.
+- Target the opened Chrome window running the Avatar (controlled by the app).
+- **Done!** The Avatar will now respond to chat questions live.
+
+> **Note on Filler Queue**: If the chat is quiet (empty queue), the system will automatically loop through a list of **common educational questions** (Filler Q&A) to keep the stream engaging.
 
 ---
 

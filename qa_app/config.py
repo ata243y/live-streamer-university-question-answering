@@ -13,6 +13,7 @@ class Settings:
     LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai") # ollama or openai
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     OPENAI_MODEL_NAME = os.getenv("OPENAI_MODEL_NAME", "gpt-4o")
+    OPENAI_SEARCH_MODEL = os.getenv("OPENAI_SEARCH_MODEL", "gpt-5-search-api")
 
     # AI Chitchat Check Ayarları
     CHITCHAT_CHECK_PROVIDER = os.getenv("CHITCHAT_CHECK_PROVIDER", "openai") # openai or ollama
@@ -26,6 +27,9 @@ class Settings:
     # Talking Head Entegrasyonu
     TALKING_HEAD_PATH = os.getenv("TALKING_HEAD_PATH", os.path.abspath("talkingmodel"))
     TALKING_HEAD_URL = os.getenv("TALKING_HEAD_URL", "http://localhost:8000")
+    
+    # YouTube Integration
+    YOUTUBE_VIDEO_ID = os.getenv("YOUTUBE_VIDEO_ID", "3iDf6s_QgPU") # Video ID for live stream listening
 
     # Dosya Yolları
     RAW_DATA_DIR = os.getenv("RAW_DATA_DIR", "qa_app/data/raw/")

@@ -53,24 +53,92 @@ function updateLoop(t) {
         const dataArray = new Uint8Array(analyser.frequencyBinCount);
         analyser.getByteFrequencyData(dataArray);
 
-        // Calculate average volume
-        let sum = 0;
-        const limit = Math.floor(dataArray.length / 4);
-        for (let i = 0; i < limit; i++) {
-            sum += dataArray[i];
+        analyser.getByteFrequencyData(dataArray);
+
+        // --- Frequency-Based Lip Sync ---
+        // Simple heuristic: map bands to approximate formants
+        // Low (0-500Hz) -> U / O
+        // Mid (500-1500Hz) -> aa
+        // High (1500Hz+) -> E / I / S
+
+        let totalEnergy = 0;
+        let eLow = 0, eMid = 0, eHigh = 0;
+
+        // Bins approx: 44100Hz / 1024 FFT ~ 43Hz per bin
+        // But we set fftSize=256 -> 128 bins (~170Hz per bin) in setupAudio() (default is usually 2048/1024)
+        // Let's assume standard default for now or check setup. 
+        // If fftSize is default 2048, bin is ~21Hz.
+        // Let's sum ranges roughly.
+
+        const binSize = dataArray.length; // 1024 usually
+        const k = 1; // Scaling factor
+
+        for (let i = 0; i < binSize; i++) {
+            const val = dataArray[i];
+            totalEnergy += val;
+            if (i < 10) eLow += val;       // ~0-400Hz
+            else if (i < 50) eMid += val;  // ~400-2000Hz
+            else eHigh += val;             // ~2000Hz+
         }
-        const average = sum / limit;
 
-        // Map to mouthOpen (0 to 1)
-        // Average is 0-255.
-        // Super sensitive: threshold 5, range 25
-        let openVal = Math.max(0, (average - 5) / 200);
-        openVal = Math.min(1, openVal);
+        // Normalize
+        eLow /= 10;
+        eMid /= 40;
+        eHigh /= (binSize - 50);
 
-        head.setFixedValue('mouthOpen', openVal);
+        // Targets
+        let t_aa = 0, t_E = 0, t_O = 0, t_U = 0;
+
+        // Threshold for silence
+        if (totalEnergy > 500) { // arbitrary threshold check
+            // Determine dominant formant
+            // Dampening factor: Increase divisor to reduce sensitivity (was 160 -> 300)
+            const sensitivity = 300;
+
+            if (eHigh > eMid && eHigh > eLow * 0.8) {
+                t_E = Math.min(0.6, eHigh / sensitivity); // Cap at 0.6
+            } else if (eMid > eLow) {
+                t_aa = Math.min(0.6, eMid / sensitivity);
+            } else {
+                t_O = Math.min(0.6, eLow / sensitivity);
+                t_U = Math.min(0.6, eLow / sensitivity);
+            }
+        }
+
+        // --- Smoothing (Lerp) ---
+        // We attach these state vars to the head object to persist them
+        if (!head.visemeState) head.visemeState = { aa: 0, E: 0, O: 0, U: 0, mouthOpen: 0 };
+        const s = head.visemeState;
+        const alpha = 0.2; // Slightly smoother (was 0.25)
+
+        s.aa += (t_aa - s.aa) * alpha;
+        s.E += (t_E - s.E) * alpha;
+        s.O += (t_O - s.O) * alpha;
+        s.U += (t_U - s.U) * alpha;
+
+        // Apply to Morph Targets
+        // Note: ReadyPlayerMe standard Visemes
+        head.setFixedValue('viseme_aa', s.aa);
+        head.setFixedValue('viseme_E', s.E * 0.5); // E usually combines with others
+        head.setFixedValue('viseme_I', s.E * 0.5);
+        head.setFixedValue('viseme_O', s.O);
+        head.setFixedValue('viseme_U', s.U);
+
+        // Also drive generic mouthOpen for fallback/layering
+        let openTarget = Math.max(t_aa, t_O, t_U * 0.5);
+        s.mouthOpen += (openTarget - s.mouthOpen) * alpha;
+        head.setFixedValue('mouthOpen', s.mouthOpen * 0.1); // Very subtle generic open (was 0.2)
+
     } else {
         if (!isPlaying && head) {
+            // Reset all
             head.setFixedValue('mouthOpen', 0);
+            head.setFixedValue('viseme_aa', 0);
+            head.setFixedValue('viseme_E', 0);
+            head.setFixedValue('viseme_I', 0);
+            head.setFixedValue('viseme_O', 0);
+            head.setFixedValue('viseme_U', 0);
+            if (head.visemeState) head.visemeState = { aa: 0, E: 0, O: 0, U: 0, mouthOpen: 0 };
         }
     }
 }
@@ -125,6 +193,10 @@ function setupAudioUI() {
 window.playTalkingHeadAudio = async function (fileOrBlob) {
     stopAudio(); // Stop any current playback
 
+
+    // Set busy immediately to prevent overlap and signal external controllers
+    isPlaying = true;
+
     try {
         let arrayBuffer;
 
@@ -151,8 +223,13 @@ window.playTalkingHeadAudio = async function (fileOrBlob) {
 
     } catch (err) {
         console.error("Error playing audio:", err);
+        isPlaying = false; // Reset on error
         throw err;
     }
+};
+
+window.isAvatarPlaying = function () {
+    return isPlaying;
 };
 
 function playAudioBuffer(buffer) {
