@@ -4,14 +4,6 @@ Empowering students and candidates with instant, accurate, and natural-language 
 
 ---
 
-## Overview
-
-This project implements a sophisticated **Retrieval-Augmented Generation (RAG)** system designed to serve as an autonomous AI assistant for **Gebze Technical University (GTU)** and **Koç University**.
-
-What sets this project apart is its **3D Talking Head Integration**: the system doesn't just display text; it speaks the answers using a realistic 3D avatar with synchronized lip movements.
-
----
-
 ## Features
 
 * **Advanced Answer Generation:** Provides accurate answers from university regulations and data.
@@ -30,24 +22,18 @@ What sets this project apart is its **3D Talking Head Integration**: the system 
 
 ### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/emretechno/Natural-Language-Process.git
-    cd Natural-Language-Process
-    ```
-
-2.  **Set up the Python virtual environment:**
+1.  **Set up the Python virtual environment:**
     ```bash
     python3.11 -m venv venv
     source venv/bin/activate
     ```
 
-3.  **Install dependencies:**
+2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-4.  **Configure environment variables:**
+3.  **Configure environment variables:**
     *   Create a `.env` file (copy from example if available, or just create it).
     *   Add your `OPENAI_API_KEY=...` to `.env`.
     *   Add your YouTube Live Video ID to `qa_app/config.py`:
