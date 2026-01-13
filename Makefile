@@ -1,4 +1,4 @@
-PYTHON = python3
+PYTHON = ./venv/bin/python3
 VENV_DIR = venv
 APP = qa_app/main.py
 REQUIREMENTS = qa_app/requirements.txt

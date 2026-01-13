@@ -56,17 +56,28 @@ Paste the Video ID into `qa_app/config.py`:
 YOUTUBE_VIDEO_ID = "3iDf6s..." # Your ID here
 ```
 
-### 3. Start the Avatar Server
+### 3. Start the Project (Recommended)
+Run the automated startup script which handles both the Avatar server and AI backend:
+```bash
+./start_project.sh
+```
+
+### Manual Start (Alternative)
+If you prefer to run components manually:
+
+#### 1. Start the Avatar Server
 Open a terminal and run the customized HTTP server for the 3D Avatar:
 ```bash
 cd talkingmodel
 python3 -m http.server 8000
 ```
 
-### 4. Start the AI Backend
+#### 2. Start the AI Backend
 Open a **new** terminal and run the main application:
 ```bash
 python -m qa_app.main
+or
+./venv/bin/python3 -m qa_app.main 
 ```
 *This will auto-connect to the YouTube chat and begin processing.*
 
@@ -84,5 +95,3 @@ python -m qa_app.main
 For questions or support, please open an issue on GitHub.
 
 ---
-
-**Built with ❤️ for University Students**
